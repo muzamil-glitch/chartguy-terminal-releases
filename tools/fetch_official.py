@@ -210,9 +210,27 @@ def parse_ics(text: str) -> list[dict]:
     return events
 
 
+BROWSER_HEADERS = {
+    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                   "(KHTML, like Gecko) Chrome/128.0 Safari/537.36"),
+    "Accept": "text/calendar,text/html;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+}
+
+
 def fetch_bls_schedule() -> list[dict]:
-    raw = http("https://www.bls.gov/schedule/news_release/bls.ics").decode("utf-8", "replace")
-    return parse_ics(raw)
+    # www.bls.gov refuses some automated clients; try plain, then browser headers.
+    errors = []
+    for headers in ({}, BROWSER_HEADERS):
+        try:
+            raw = http("https://www.bls.gov/schedule/news_release/bls.ics", headers=headers).decode("utf-8", "replace")
+            ev = parse_ics(raw)
+            if ev:
+                return ev
+            errors.append("parsed 0 events")
+        except Exception as e:  # noqa: BLE001
+            errors.append(f"{type(e).__name__}: {e}")
+    raise RuntimeError("; ".join(errors))
 
 
 # ------------------------------------------------------------- FOMC
