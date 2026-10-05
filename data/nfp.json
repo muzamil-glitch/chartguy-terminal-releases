@@ -1,0 +1,2140 @@
+{
+ "updated": "2026-10-05T15:17:15Z",
+ "licence": "US Government work, public domain. Compiled by Chart Guy Data.",
+ "note": "Latest revised values. first_print is recorded from the first time this pipeline saw a release.",
+ "rows": [
+  {
+   "period": "2007-01",
+   "nfp_change_k": null,
+   "nfp_level_k": 137472.0,
+   "unemployment_rate": 4.6,
+   "ahe_mom_pct": null,
+   "ahe_yoy_pct": null,
+   "release_time_utc": null
+  },
+  {
+   "period": "2007-02",
+   "nfp_change_k": 88.0,
+   "nfp_level_k": 137560.0,
+   "unemployment_rate": 4.5,
+   "ahe_mom_pct": 0.44,
+   "ahe_yoy_pct": null,
+   "release_time_utc": null
+  },
+  {
+   "period": "2007-03",
+   "nfp_change_k": 224.0,
+   "nfp_level_k": 137784.0,
+   "unemployment_rate": 4.4,
+   "ahe_mom_pct": 0.19,
+   "ahe_yoy_pct": null,
+   "release_time_utc": null
+  },
+  {
+   "period": "2007-04",
+   "nfp_change_k": 63.0,
+   "nfp_level_k": 137847.0,
+   "unemployment_rate": 4.5,
+   "ahe_mom_pct": 0.34,
+   "ahe_yoy_pct": null,
+   "release_time_utc": null
+  },
+  {
+   "period": "2007-05",
+   "nfp_change_k": 145.0,
+   "nfp_level_k": 137992.0,
+   "unemployment_rate": 4.4,
+   "ahe_mom_pct": 0.24,
+   "ahe_yoy_pct": null,
+   "release_time_utc": null
+  },
+  {
+   "period": "2007-06",
+   "nfp_change_k": 78.0,
+   "nfp_level_k": 138070.0,
+   "unemployment_rate": 4.6,
+   "ahe_mom_pct": 0.53,
+   "ahe_yoy_pct": null,
+   "release_time_utc": null
+  },
+  {
+   "period": "2007-07",
+   "nfp_change_k": -26.0,
+   "nfp_level_k": 138044.0,
+   "unemployment_rate": 4.7,
+   "ahe_mom_pct": -0.05,
+   "ahe_yoy_pct": null,
+   "release_time_utc": null
+  },
+  {
+   "period": "2007-08",
+   "nfp_change_k": -31.0,
+   "nfp_level_k": 138013.0,
+   "unemployment_rate": 4.6,
+   "ahe_mom_pct": 0.29,
+   "ahe_yoy_pct": null,
+   "release_time_utc": null
+  },
+  {
+   "period": "2007-09",
+   "nfp_change_k": 86.0,
+   "nfp_level_k": 138099.0,
+   "unemployment_rate": 4.7,
+   "ahe_mom_pct": 0.19,
+   "ahe_yoy_pct": null,
+   "release_time_utc": null
+  },
+  {
+   "period": "2007-10",
+   "nfp_change_k": 76.0,
+   "nfp_level_k": 138175.0,
+   "unemployment_rate": 4.7,
+   "ahe_mom_pct": 0.1,
+   "ahe_yoy_pct": null,
+   "release_time_utc": null
+  },
+  {
+   "period": "2007-11",
+   "nfp_change_k": 115.0,
+   "nfp_level_k": 138290.0,
+   "unemployment_rate": 4.7,
+   "ahe_mom_pct": 0.28,
+   "ahe_yoy_pct": null,
+   "release_time_utc": null
+  },
+  {
+   "period": "2007-12",
+   "nfp_change_k": 105.0,
+   "nfp_level_k": 138395.0,
+   "unemployment_rate": 5.0,
+   "ahe_mom_pct": 0.19,
+   "ahe_yoy_pct": null,
+   "release_time_utc": null
+  },
+  {
+   "period": "2008-01",
+   "nfp_change_k": -4.0,
+   "nfp_level_k": 138391.0,
+   "unemployment_rate": 5.0,
+   "ahe_mom_pct": 0.14,
+   "ahe_yoy_pct": 2.91,
+   "release_time_utc": null
+  },
+  {
+   "period": "2008-02",
+   "nfp_change_k": -62.0,
+   "nfp_level_k": 138329.0,
+   "unemployment_rate": 4.9,
+   "ahe_mom_pct": 0.38,
+   "ahe_yoy_pct": 2.85,
+   "release_time_utc": null
+  },
+  {
+   "period": "2008-03",
+   "nfp_change_k": -70.0,
+   "nfp_level_k": 138259.0,
+   "unemployment_rate": 5.1,
+   "ahe_mom_pct": 0.42,
+   "ahe_yoy_pct": 3.09,
+   "release_time_utc": null
+  },
+  {
+   "period": "2008-04",
+   "nfp_change_k": -219.0,
+   "nfp_level_k": 138040.0,
+   "unemployment_rate": 5.0,
+   "ahe_mom_pct": 0.09,
+   "ahe_yoy_pct": 2.84,
+   "release_time_utc": null
+  },
+  {
+   "period": "2008-05",
+   "nfp_change_k": -189.0,
+   "nfp_level_k": 137851.0,
+   "unemployment_rate": 5.4,
+   "ahe_mom_pct": 0.42,
+   "ahe_yoy_pct": 3.02,
+   "release_time_utc": null
+  },
+  {
+   "period": "2008-06",
+   "nfp_change_k": -151.0,
+   "nfp_level_k": 137700.0,
+   "unemployment_rate": 5.6,
+   "ahe_mom_pct": 0.23,
+   "ahe_yoy_pct": 2.72,
+   "release_time_utc": null
+  },
+  {
+   "period": "2008-07",
+   "nfp_change_k": -203.0,
+   "nfp_level_k": 137497.0,
+   "unemployment_rate": 5.8,
+   "ahe_mom_pct": 0.37,
+   "ahe_yoy_pct": 3.15,
+   "release_time_utc": null
+  },
+  {
+   "period": "2008-08",
+   "nfp_change_k": -286.0,
+   "nfp_level_k": 137211.0,
+   "unemployment_rate": 6.1,
+   "ahe_mom_pct": 0.46,
+   "ahe_yoy_pct": 3.33,
+   "release_time_utc": null
+  },
+  {
+   "period": "2008-09",
+   "nfp_change_k": -451.0,
+   "nfp_level_k": 136760.0,
+   "unemployment_rate": 6.1,
+   "ahe_mom_pct": 0.14,
+   "ahe_yoy_pct": 3.28,
+   "release_time_utc": null
+  },
+  {
+   "period": "2008-10",
+   "nfp_change_k": -469.0,
+   "nfp_level_k": 136291.0,
+   "unemployment_rate": 6.5,
+   "ahe_mom_pct": 0.14,
+   "ahe_yoy_pct": 3.32,
+   "release_time_utc": null
+  },
+  {
+   "period": "2008-11",
+   "nfp_change_k": -750.0,
+   "nfp_level_k": 135541.0,
+   "unemployment_rate": 6.8,
+   "ahe_mom_pct": 0.46,
+   "ahe_yoy_pct": 3.5,
+   "release_time_utc": null
+  },
+  {
+   "period": "2008-12",
+   "nfp_change_k": -694.0,
+   "nfp_level_k": 134847.0,
+   "unemployment_rate": 7.3,
+   "ahe_mom_pct": 0.41,
+   "ahe_yoy_pct": 3.73,
+   "release_time_utc": null
+  },
+  {
+   "period": "2009-01",
+   "nfp_change_k": -768.0,
+   "nfp_level_k": 134079.0,
+   "unemployment_rate": 7.8,
+   "ahe_mom_pct": 0.05,
+   "ahe_yoy_pct": 3.63,
+   "release_time_utc": null
+  },
+  {
+   "period": "2009-02",
+   "nfp_change_k": -761.0,
+   "nfp_level_k": 133318.0,
+   "unemployment_rate": 8.3,
+   "ahe_mom_pct": 0.09,
+   "ahe_yoy_pct": 3.34,
+   "release_time_utc": null
+  },
+  {
+   "period": "2009-03",
+   "nfp_change_k": -824.0,
+   "nfp_level_k": 132494.0,
+   "unemployment_rate": 8.7,
+   "ahe_mom_pct": 0.32,
+   "ahe_yoy_pct": 3.23,
+   "release_time_utc": null
+  },
+  {
+   "period": "2009-04",
+   "nfp_change_k": -672.0,
+   "nfp_level_k": 131822.0,
+   "unemployment_rate": 9.0,
+   "ahe_mom_pct": 0.23,
+   "ahe_yoy_pct": 3.37,
+   "release_time_utc": null
+  },
+  {
+   "period": "2009-05",
+   "nfp_change_k": -356.0,
+   "nfp_level_k": 131466.0,
+   "unemployment_rate": 9.4,
+   "ahe_mom_pct": 0.09,
+   "ahe_yoy_pct": 3.03,
+   "release_time_utc": null
+  },
+  {
+   "period": "2009-06",
+   "nfp_change_k": -458.0,
+   "nfp_level_k": 131008.0,
+   "unemployment_rate": 9.5,
+   "ahe_mom_pct": 0.09,
+   "ahe_yoy_pct": 2.88,
+   "release_time_utc": null
+  },
+  {
+   "period": "2009-07",
+   "nfp_change_k": -346.0,
+   "nfp_level_k": 130662.0,
+   "unemployment_rate": 9.5,
+   "ahe_mom_pct": 0.18,
+   "ahe_yoy_pct": 2.69,
+   "release_time_utc": null
+  },
+  {
+   "period": "2009-08",
+   "nfp_change_k": -190.0,
+   "nfp_level_k": 130472.0,
+   "unemployment_rate": 9.6,
+   "ahe_mom_pct": 0.23,
+   "ahe_yoy_pct": 2.44,
+   "release_time_utc": null
+  },
+  {
+   "period": "2009-09",
+   "nfp_change_k": -226.0,
+   "nfp_level_k": 130246.0,
+   "unemployment_rate": 9.8,
+   "ahe_mom_pct": 0.18,
+   "ahe_yoy_pct": 2.49,
+   "release_time_utc": null
+  },
+  {
+   "period": "2009-10",
+   "nfp_change_k": -185.0,
+   "nfp_level_k": 130061.0,
+   "unemployment_rate": 10.0,
+   "ahe_mom_pct": 0.18,
+   "ahe_yoy_pct": 2.53,
+   "release_time_utc": null
+  },
+  {
+   "period": "2009-11",
+   "nfp_change_k": -4.0,
+   "nfp_level_k": 130057.0,
+   "unemployment_rate": 9.9,
+   "ahe_mom_pct": 0.13,
+   "ahe_yoy_pct": 2.2,
+   "release_time_utc": null
+  },
+  {
+   "period": "2009-12",
+   "nfp_change_k": -249.0,
+   "nfp_level_k": 129808.0,
+   "unemployment_rate": 9.9,
+   "ahe_mom_pct": 0.13,
+   "ahe_yoy_pct": 1.91,
+   "release_time_utc": null
+  },
+  {
+   "period": "2010-01",
+   "nfp_change_k": -6.0,
+   "nfp_level_k": 129802.0,
+   "unemployment_rate": 9.8,
+   "ahe_mom_pct": 0.13,
+   "ahe_yoy_pct": 2.0,
+   "release_time_utc": null
+  },
+  {
+   "period": "2010-02",
+   "nfp_change_k": -96.0,
+   "nfp_level_k": 129706.0,
+   "unemployment_rate": 9.8,
+   "ahe_mom_pct": 0.27,
+   "ahe_yoy_pct": 2.18,
+   "release_time_utc": null
+  },
+  {
+   "period": "2010-03",
+   "nfp_change_k": 160.0,
+   "nfp_level_k": 129866.0,
+   "unemployment_rate": 9.9,
+   "ahe_mom_pct": 0.0,
+   "ahe_yoy_pct": 1.86,
+   "release_time_utc": null
+  },
+  {
+   "period": "2010-04",
+   "nfp_change_k": 254.0,
+   "nfp_level_k": 130120.0,
+   "unemployment_rate": 9.9,
+   "ahe_mom_pct": 0.13,
+   "ahe_yoy_pct": 1.76,
+   "release_time_utc": null
+  },
+  {
+   "period": "2010-05",
+   "nfp_change_k": 522.0,
+   "nfp_level_k": 130642.0,
+   "unemployment_rate": 9.6,
+   "ahe_mom_pct": 0.09,
+   "ahe_yoy_pct": 1.76,
+   "release_time_utc": null
+  },
+  {
+   "period": "2010-06",
+   "nfp_change_k": -132.0,
+   "nfp_level_k": 130510.0,
+   "unemployment_rate": 9.4,
+   "ahe_mom_pct": 0.09,
+   "ahe_yoy_pct": 1.76,
+   "release_time_utc": null
+  },
+  {
+   "period": "2010-07",
+   "nfp_change_k": -95.0,
+   "nfp_level_k": 130415.0,
+   "unemployment_rate": 9.4,
+   "ahe_mom_pct": 0.27,
+   "ahe_yoy_pct": 1.85,
+   "release_time_utc": null
+  },
+  {
+   "period": "2010-08",
+   "nfp_change_k": 0.0,
+   "nfp_level_k": 130415.0,
+   "unemployment_rate": 9.5,
+   "ahe_mom_pct": 0.13,
+   "ahe_yoy_pct": 1.75,
+   "release_time_utc": null
+  },
+  {
+   "period": "2010-09",
+   "nfp_change_k": -74.0,
+   "nfp_level_k": 130341.0,
+   "unemployment_rate": 9.5,
+   "ahe_mom_pct": 0.22,
+   "ahe_yoy_pct": 1.8,
+   "release_time_utc": null
+  },
+  {
+   "period": "2010-10",
+   "nfp_change_k": 279.0,
+   "nfp_level_k": 130620.0,
+   "unemployment_rate": 9.4,
+   "ahe_mom_pct": 0.26,
+   "ahe_yoy_pct": 1.88,
+   "release_time_utc": null
+  },
+  {
+   "period": "2010-11",
+   "nfp_change_k": 129.0,
+   "nfp_level_k": 130749.0,
+   "unemployment_rate": 9.8,
+   "ahe_mom_pct": 0.0,
+   "ahe_yoy_pct": 1.75,
+   "release_time_utc": null
+  },
+  {
+   "period": "2010-12",
+   "nfp_change_k": 81.0,
+   "nfp_level_k": 130830.0,
+   "unemployment_rate": 9.3,
+   "ahe_mom_pct": 0.13,
+   "ahe_yoy_pct": 1.74,
+   "release_time_utc": null
+  },
+  {
+   "period": "2011-01",
+   "nfp_change_k": 7.0,
+   "nfp_level_k": 130837.0,
+   "unemployment_rate": 9.1,
+   "ahe_mom_pct": 0.48,
+   "ahe_yoy_pct": 2.1,
+   "release_time_utc": null
+  },
+  {
+   "period": "2011-02",
+   "nfp_change_k": 220.0,
+   "nfp_level_k": 131057.0,
+   "unemployment_rate": 9.0,
+   "ahe_mom_pct": 0.0,
+   "ahe_yoy_pct": 1.83,
+   "release_time_utc": null
+  },
+  {
+   "period": "2011-03",
+   "nfp_change_k": 226.0,
+   "nfp_level_k": 131283.0,
+   "unemployment_rate": 9.0,
+   "ahe_mom_pct": 0.0,
+   "ahe_yoy_pct": 1.83,
+   "release_time_utc": null
+  },
+  {
+   "period": "2011-04",
+   "nfp_change_k": 314.0,
+   "nfp_level_k": 131597.0,
+   "unemployment_rate": 9.1,
+   "ahe_mom_pct": 0.17,
+   "ahe_yoy_pct": 1.87,
+   "release_time_utc": null
+  },
+  {
+   "period": "2011-05",
+   "nfp_change_k": 106.0,
+   "nfp_level_k": 131703.0,
+   "unemployment_rate": 9.0,
+   "ahe_mom_pct": 0.26,
+   "ahe_yoy_pct": 2.04,
+   "release_time_utc": null
+  },
+  {
+   "period": "2011-06",
+   "nfp_change_k": 228.0,
+   "nfp_level_k": 131931.0,
+   "unemployment_rate": 9.1,
+   "ahe_mom_pct": 0.13,
+   "ahe_yoy_pct": 2.09,
+   "release_time_utc": null
+  },
+  {
+   "period": "2011-07",
+   "nfp_change_k": 61.0,
+   "nfp_level_k": 131992.0,
+   "unemployment_rate": 9.0,
+   "ahe_mom_pct": 0.48,
+   "ahe_yoy_pct": 2.3,
+   "release_time_utc": null
+  },
+  {
+   "period": "2011-08",
+   "nfp_change_k": 133.0,
+   "nfp_level_k": 132125.0,
+   "unemployment_rate": 9.0,
+   "ahe_mom_pct": -0.22,
+   "ahe_yoy_pct": 1.95,
+   "release_time_utc": null
+  },
+  {
+   "period": "2011-09",
+   "nfp_change_k": 219.0,
+   "nfp_level_k": 132344.0,
+   "unemployment_rate": 9.0,
+   "ahe_mom_pct": 0.22,
+   "ahe_yoy_pct": 1.94,
+   "release_time_utc": null
+  },
+  {
+   "period": "2011-10",
+   "nfp_change_k": 209.0,
+   "nfp_level_k": 132553.0,
+   "unemployment_rate": 8.8,
+   "ahe_mom_pct": 0.3,
+   "ahe_yoy_pct": 1.98,
+   "release_time_utc": null
+  },
+  {
+   "period": "2011-11",
+   "nfp_change_k": 137.0,
+   "nfp_level_k": 132690.0,
+   "unemployment_rate": 8.6,
+   "ahe_mom_pct": 0.04,
+   "ahe_yoy_pct": 2.02,
+   "release_time_utc": null
+  },
+  {
+   "period": "2011-12",
+   "nfp_change_k": 198.0,
+   "nfp_level_k": 132888.0,
+   "unemployment_rate": 8.5,
+   "ahe_mom_pct": 0.13,
+   "ahe_yoy_pct": 2.02,
+   "release_time_utc": null
+  },
+  {
+   "period": "2012-01",
+   "nfp_change_k": 358.0,
+   "nfp_level_k": 133246.0,
+   "unemployment_rate": 8.3,
+   "ahe_mom_pct": 0.17,
+   "ahe_yoy_pct": 1.71,
+   "release_time_utc": null
+  },
+  {
+   "period": "2012-02",
+   "nfp_change_k": 263.0,
+   "nfp_level_k": 133509.0,
+   "unemployment_rate": 8.3,
+   "ahe_mom_pct": 0.09,
+   "ahe_yoy_pct": 1.79,
+   "release_time_utc": null
+  },
+  {
+   "period": "2012-03",
+   "nfp_change_k": 239.0,
+   "nfp_level_k": 133748.0,
+   "unemployment_rate": 8.2,
+   "ahe_mom_pct": 0.34,
+   "ahe_yoy_pct": 2.14,
+   "release_time_utc": null
+  },
+  {
+   "period": "2012-04",
+   "nfp_change_k": 77.0,
+   "nfp_level_k": 133825.0,
+   "unemployment_rate": 8.2,
+   "ahe_mom_pct": 0.13,
+   "ahe_yoy_pct": 2.1,
+   "release_time_utc": null
+  },
+  {
+   "period": "2012-05",
+   "nfp_change_k": 107.0,
+   "nfp_level_k": 133932.0,
+   "unemployment_rate": 8.2,
+   "ahe_mom_pct": 0.09,
+   "ahe_yoy_pct": 1.92,
+   "release_time_utc": null
+  },
+  {
+   "period": "2012-06",
+   "nfp_change_k": 81.0,
+   "nfp_level_k": 134013.0,
+   "unemployment_rate": 8.2,
+   "ahe_mom_pct": 0.21,
+   "ahe_yoy_pct": 2.0,
+   "release_time_utc": null
+  },
+  {
+   "period": "2012-07",
+   "nfp_change_k": 144.0,
+   "nfp_level_k": 134157.0,
+   "unemployment_rate": 8.2,
+   "ahe_mom_pct": 0.13,
+   "ahe_yoy_pct": 1.64,
+   "release_time_utc": null
+  },
+  {
+   "period": "2012-08",
+   "nfp_change_k": 182.0,
+   "nfp_level_k": 134339.0,
+   "unemployment_rate": 8.1,
+   "ahe_mom_pct": -0.04,
+   "ahe_yoy_pct": 1.82,
+   "release_time_utc": null
+  },
+  {
+   "period": "2012-09",
+   "nfp_change_k": 178.0,
+   "nfp_level_k": 134517.0,
+   "unemployment_rate": 7.8,
+   "ahe_mom_pct": 0.38,
+   "ahe_yoy_pct": 1.99,
+   "release_time_utc": null
+  },
+  {
+   "period": "2012-10",
+   "nfp_change_k": 152.0,
+   "nfp_level_k": 134669.0,
+   "unemployment_rate": 7.8,
+   "ahe_mom_pct": -0.04,
+   "ahe_yoy_pct": 1.64,
+   "release_time_utc": null
+  },
+  {
+   "period": "2012-11",
+   "nfp_change_k": 156.0,
+   "nfp_level_k": 134825.0,
+   "unemployment_rate": 7.7,
+   "ahe_mom_pct": 0.3,
+   "ahe_yoy_pct": 1.9,
+   "release_time_utc": null
+  },
+  {
+   "period": "2012-12",
+   "nfp_change_k": 249.0,
+   "nfp_level_k": 135074.0,
+   "unemployment_rate": 7.9,
+   "ahe_mom_pct": 0.38,
+   "ahe_yoy_pct": 2.15,
+   "release_time_utc": null
+  },
+  {
+   "period": "2013-01",
+   "nfp_change_k": 183.0,
+   "nfp_level_k": 135257.0,
+   "unemployment_rate": 8.0,
+   "ahe_mom_pct": 0.08,
+   "ahe_yoy_pct": 2.06,
+   "release_time_utc": null
+  },
+  {
+   "period": "2013-02",
+   "nfp_change_k": 289.0,
+   "nfp_level_k": 135546.0,
+   "unemployment_rate": 7.7,
+   "ahe_mom_pct": 0.17,
+   "ahe_yoy_pct": 2.15,
+   "release_time_utc": null
+  },
+  {
+   "period": "2013-03",
+   "nfp_change_k": 143.0,
+   "nfp_level_k": 135689.0,
+   "unemployment_rate": 7.5,
+   "ahe_mom_pct": 0.08,
+   "ahe_yoy_pct": 1.88,
+   "release_time_utc": null
+  },
+  {
+   "period": "2013-04",
+   "nfp_change_k": 184.0,
+   "nfp_level_k": 135873.0,
+   "unemployment_rate": 7.6,
+   "ahe_mom_pct": 0.29,
+   "ahe_yoy_pct": 2.05,
+   "release_time_utc": null
+  },
+  {
+   "period": "2013-05",
+   "nfp_change_k": 223.0,
+   "nfp_level_k": 136096.0,
+   "unemployment_rate": 7.5,
+   "ahe_mom_pct": 0.08,
+   "ahe_yoy_pct": 2.05,
+   "release_time_utc": null
+  },
+  {
+   "period": "2013-06",
+   "nfp_change_k": 183.0,
+   "nfp_level_k": 136279.0,
+   "unemployment_rate": 7.5,
+   "ahe_mom_pct": 0.29,
+   "ahe_yoy_pct": 2.13,
+   "release_time_utc": null
+  },
+  {
+   "period": "2013-07",
+   "nfp_change_k": 112.0,
+   "nfp_level_k": 136391.0,
+   "unemployment_rate": 7.3,
+   "ahe_mom_pct": 0.08,
+   "ahe_yoy_pct": 2.09,
+   "release_time_utc": null
+  },
+  {
+   "period": "2013-08",
+   "nfp_change_k": 255.0,
+   "nfp_level_k": 136646.0,
+   "unemployment_rate": 7.2,
+   "ahe_mom_pct": 0.17,
+   "ahe_yoy_pct": 2.3,
+   "release_time_utc": null
+  },
+  {
+   "period": "2013-09",
+   "nfp_change_k": 175.0,
+   "nfp_level_k": 136821.0,
+   "unemployment_rate": 7.2,
+   "ahe_mom_pct": 0.17,
+   "ahe_yoy_pct": 2.08,
+   "release_time_utc": null
+  },
+  {
+   "period": "2013-10",
+   "nfp_change_k": 220.0,
+   "nfp_level_k": 137041.0,
+   "unemployment_rate": 7.2,
+   "ahe_mom_pct": 0.12,
+   "ahe_yoy_pct": 2.25,
+   "release_time_utc": null
+  },
+  {
+   "period": "2013-11",
+   "nfp_change_k": 276.0,
+   "nfp_level_k": 137317.0,
+   "unemployment_rate": 6.9,
+   "ahe_mom_pct": 0.29,
+   "ahe_yoy_pct": 2.24,
+   "release_time_utc": null
+  },
+  {
+   "period": "2013-12",
+   "nfp_change_k": 55.0,
+   "nfp_level_k": 137372.0,
+   "unemployment_rate": 6.7,
+   "ahe_mom_pct": 0.08,
+   "ahe_yoy_pct": 1.94,
+   "release_time_utc": null
+  },
+  {
+   "period": "2014-01",
+   "nfp_change_k": 189.0,
+   "nfp_level_k": 137561.0,
+   "unemployment_rate": 6.6,
+   "ahe_mom_pct": 0.17,
+   "ahe_yoy_pct": 2.02,
+   "release_time_utc": null
+  },
+  {
+   "period": "2014-02",
+   "nfp_change_k": 151.0,
+   "nfp_level_k": 137712.0,
+   "unemployment_rate": 6.7,
+   "ahe_mom_pct": 0.45,
+   "ahe_yoy_pct": 2.31,
+   "release_time_utc": null
+  },
+  {
+   "period": "2014-03",
+   "nfp_change_k": 273.0,
+   "nfp_level_k": 137985.0,
+   "unemployment_rate": 6.7,
+   "ahe_mom_pct": -0.08,
+   "ahe_yoy_pct": 2.14,
+   "release_time_utc": null
+  },
+  {
+   "period": "2014-04",
+   "nfp_change_k": 313.0,
+   "nfp_level_k": 138298.0,
+   "unemployment_rate": 6.2,
+   "ahe_mom_pct": 0.12,
+   "ahe_yoy_pct": 1.97,
+   "release_time_utc": null
+  },
+  {
+   "period": "2014-05",
+   "nfp_change_k": 215.0,
+   "nfp_level_k": 138513.0,
+   "unemployment_rate": 6.3,
+   "ahe_mom_pct": 0.25,
+   "ahe_yoy_pct": 2.13,
+   "release_time_utc": null
+  },
+  {
+   "period": "2014-06",
+   "nfp_change_k": 336.0,
+   "nfp_level_k": 138849.0,
+   "unemployment_rate": 6.1,
+   "ahe_mom_pct": 0.25,
+   "ahe_yoy_pct": 2.09,
+   "release_time_utc": null
+  },
+  {
+   "period": "2014-07",
+   "nfp_change_k": 223.0,
+   "nfp_level_k": 139072.0,
+   "unemployment_rate": 6.2,
+   "ahe_mom_pct": 0.08,
+   "ahe_yoy_pct": 2.09,
+   "release_time_utc": null
+  },
+  {
+   "period": "2014-08",
+   "nfp_change_k": 197.0,
+   "nfp_level_k": 139269.0,
+   "unemployment_rate": 6.1,
+   "ahe_mom_pct": 0.25,
+   "ahe_yoy_pct": 2.16,
+   "release_time_utc": null
+  },
+  {
+   "period": "2014-09",
+   "nfp_change_k": 294.0,
+   "nfp_level_k": 139563.0,
+   "unemployment_rate": 5.9,
+   "ahe_mom_pct": 0.08,
+   "ahe_yoy_pct": 2.08,
+   "release_time_utc": null
+  },
+  {
+   "period": "2014-10",
+   "nfp_change_k": 235.0,
+   "nfp_level_k": 139798.0,
+   "unemployment_rate": 5.7,
+   "ahe_mom_pct": 0.12,
+   "ahe_yoy_pct": 2.08,
+   "release_time_utc": null
+  },
+  {
+   "period": "2014-11",
+   "nfp_change_k": 291.0,
+   "nfp_level_k": 140089.0,
+   "unemployment_rate": 5.8,
+   "ahe_mom_pct": 0.28,
+   "ahe_yoy_pct": 2.07,
+   "release_time_utc": null
+  },
+  {
+   "period": "2014-12",
+   "nfp_change_k": 275.0,
+   "nfp_level_k": 140364.0,
+   "unemployment_rate": 5.6,
+   "ahe_mom_pct": -0.12,
+   "ahe_yoy_pct": 1.86,
+   "release_time_utc": null
+  },
+  {
+   "period": "2015-01",
+   "nfp_change_k": 204.0,
+   "nfp_level_k": 140568.0,
+   "unemployment_rate": 5.7,
+   "ahe_mom_pct": 0.45,
+   "ahe_yoy_pct": 2.15,
+   "release_time_utc": null
+  },
+  {
+   "period": "2015-02",
+   "nfp_change_k": 259.0,
+   "nfp_level_k": 140827.0,
+   "unemployment_rate": 5.5,
+   "ahe_mom_pct": 0.2,
+   "ahe_yoy_pct": 1.89,
+   "release_time_utc": null
+  },
+  {
+   "period": "2015-03",
+   "nfp_change_k": 96.0,
+   "nfp_level_k": 140923.0,
+   "unemployment_rate": 5.4,
+   "ahe_mom_pct": 0.24,
+   "ahe_yoy_pct": 2.22,
+   "release_time_utc": null
+  },
+  {
+   "period": "2015-04",
+   "nfp_change_k": 273.0,
+   "nfp_level_k": 141196.0,
+   "unemployment_rate": 5.4,
+   "ahe_mom_pct": 0.16,
+   "ahe_yoy_pct": 2.26,
+   "release_time_utc": null
+  },
+  {
+   "period": "2015-05",
+   "nfp_change_k": 342.0,
+   "nfp_level_k": 141538.0,
+   "unemployment_rate": 5.6,
+   "ahe_mom_pct": 0.32,
+   "ahe_yoy_pct": 2.34,
+   "release_time_utc": null
+  },
+  {
+   "period": "2015-06",
+   "nfp_change_k": 171.0,
+   "nfp_level_k": 141709.0,
+   "unemployment_rate": 5.3,
+   "ahe_mom_pct": 0.0,
+   "ahe_yoy_pct": 2.09,
+   "release_time_utc": null
+  },
+  {
+   "period": "2015-07",
+   "nfp_change_k": 282.0,
+   "nfp_level_k": 141991.0,
+   "unemployment_rate": 5.2,
+   "ahe_mom_pct": 0.16,
+   "ahe_yoy_pct": 2.17,
+   "release_time_utc": null
+  },
+  {
+   "period": "2015-08",
+   "nfp_change_k": 134.0,
+   "nfp_level_k": 142125.0,
+   "unemployment_rate": 5.1,
+   "ahe_mom_pct": 0.36,
+   "ahe_yoy_pct": 2.28,
+   "release_time_utc": null
+  },
+  {
+   "period": "2015-09",
+   "nfp_change_k": 150.0,
+   "nfp_level_k": 142275.0,
+   "unemployment_rate": 5.0,
+   "ahe_mom_pct": 0.04,
+   "ahe_yoy_pct": 2.24,
+   "release_time_utc": null
+  },
+  {
+   "period": "2015-10",
+   "nfp_change_k": 304.0,
+   "nfp_level_k": 142579.0,
+   "unemployment_rate": 5.0,
+   "ahe_mom_pct": 0.36,
+   "ahe_yoy_pct": 2.48,
+   "release_time_utc": null
+  },
+  {
+   "period": "2015-11",
+   "nfp_change_k": 229.0,
+   "nfp_level_k": 142808.0,
+   "unemployment_rate": 5.1,
+   "ahe_mom_pct": 0.2,
+   "ahe_yoy_pct": 2.39,
+   "release_time_utc": null
+  },
+  {
+   "period": "2015-12",
+   "nfp_change_k": 269.0,
+   "nfp_level_k": 143077.0,
+   "unemployment_rate": 5.0,
+   "ahe_mom_pct": 0.0,
+   "ahe_yoy_pct": 2.52,
+   "release_time_utc": null
+  },
+  {
+   "period": "2016-01",
+   "nfp_change_k": 133.0,
+   "nfp_level_k": 143210.0,
+   "unemployment_rate": 4.8,
+   "ahe_mom_pct": 0.48,
+   "ahe_yoy_pct": 2.55,
+   "release_time_utc": null
+  },
+  {
+   "period": "2016-02",
+   "nfp_change_k": 196.0,
+   "nfp_level_k": 143406.0,
+   "unemployment_rate": 4.9,
+   "ahe_mom_pct": 0.04,
+   "ahe_yoy_pct": 2.38,
+   "release_time_utc": null
+  },
+  {
+   "period": "2016-03",
+   "nfp_change_k": 256.0,
+   "nfp_level_k": 143662.0,
+   "unemployment_rate": 5.0,
+   "ahe_mom_pct": 0.28,
+   "ahe_yoy_pct": 2.41,
+   "release_time_utc": null
+  },
+  {
+   "period": "2016-04",
+   "nfp_change_k": 192.0,
+   "nfp_level_k": 143854.0,
+   "unemployment_rate": 5.1,
+   "ahe_mom_pct": 0.31,
+   "ahe_yoy_pct": 2.57,
+   "release_time_utc": null
+  },
+  {
+   "period": "2016-05",
+   "nfp_change_k": 46.0,
+   "nfp_level_k": 143900.0,
+   "unemployment_rate": 4.8,
+   "ahe_mom_pct": 0.2,
+   "ahe_yoy_pct": 2.44,
+   "release_time_utc": null
+  },
+  {
+   "period": "2016-06",
+   "nfp_change_k": 247.0,
+   "nfp_level_k": 144147.0,
+   "unemployment_rate": 4.9,
+   "ahe_mom_pct": 0.16,
+   "ahe_yoy_pct": 2.6,
+   "release_time_utc": null
+  },
+  {
+   "period": "2016-07",
+   "nfp_change_k": 373.0,
+   "nfp_level_k": 144520.0,
+   "unemployment_rate": 4.8,
+   "ahe_mom_pct": 0.27,
+   "ahe_yoy_pct": 2.72,
+   "release_time_utc": null
+  },
+  {
+   "period": "2016-08",
+   "nfp_change_k": 141.0,
+   "nfp_level_k": 144661.0,
+   "unemployment_rate": 4.9,
+   "ahe_mom_pct": 0.08,
+   "ahe_yoy_pct": 2.43,
+   "release_time_utc": null
+  },
+  {
+   "period": "2016-09",
+   "nfp_change_k": 306.0,
+   "nfp_level_k": 144967.0,
+   "unemployment_rate": 5.0,
+   "ahe_mom_pct": 0.23,
+   "ahe_yoy_pct": 2.63,
+   "release_time_utc": null
+  },
+  {
+   "period": "2016-10",
+   "nfp_change_k": 98.0,
+   "nfp_level_k": 145065.0,
+   "unemployment_rate": 4.9,
+   "ahe_mom_pct": 0.5,
+   "ahe_yoy_pct": 2.78,
+   "release_time_utc": null
+  },
+  {
+   "period": "2016-11",
+   "nfp_change_k": 118.0,
+   "nfp_level_k": 145183.0,
+   "unemployment_rate": 4.7,
+   "ahe_mom_pct": 0.0,
+   "ahe_yoy_pct": 2.57,
+   "release_time_utc": null
+  },
+  {
+   "period": "2016-12",
+   "nfp_change_k": 225.0,
+   "nfp_level_k": 145408.0,
+   "unemployment_rate": 4.7,
+   "ahe_mom_pct": 0.12,
+   "ahe_yoy_pct": 2.69,
+   "release_time_utc": null
+  },
+  {
+   "period": "2017-01",
+   "nfp_change_k": 220.0,
+   "nfp_level_k": 145628.0,
+   "unemployment_rate": 4.7,
+   "ahe_mom_pct": 0.27,
+   "ahe_yoy_pct": 2.48,
+   "release_time_utc": null
+  },
+  {
+   "period": "2017-02",
+   "nfp_change_k": 218.0,
+   "nfp_level_k": 145846.0,
+   "unemployment_rate": 4.6,
+   "ahe_mom_pct": 0.27,
+   "ahe_yoy_pct": 2.72,
+   "release_time_utc": null
+  },
+  {
+   "period": "2017-03",
+   "nfp_change_k": 124.0,
+   "nfp_level_k": 145970.0,
+   "unemployment_rate": 4.4,
+   "ahe_mom_pct": 0.15,
+   "ahe_yoy_pct": 2.59,
+   "release_time_utc": null
+  },
+  {
+   "period": "2017-04",
+   "nfp_change_k": 205.0,
+   "nfp_level_k": 146175.0,
+   "unemployment_rate": 4.4,
+   "ahe_mom_pct": 0.27,
+   "ahe_yoy_pct": 2.55,
+   "release_time_utc": null
+  },
+  {
+   "period": "2017-05",
+   "nfp_change_k": 205.0,
+   "nfp_level_k": 146380.0,
+   "unemployment_rate": 4.4,
+   "ahe_mom_pct": 0.11,
+   "ahe_yoy_pct": 2.46,
+   "release_time_utc": null
+  },
+  {
+   "period": "2017-06",
+   "nfp_change_k": 203.0,
+   "nfp_level_k": 146583.0,
+   "unemployment_rate": 4.3,
+   "ahe_mom_pct": 0.19,
+   "ahe_yoy_pct": 2.5,
+   "release_time_utc": null
+  },
+  {
+   "period": "2017-07",
+   "nfp_change_k": 189.0,
+   "nfp_level_k": 146772.0,
+   "unemployment_rate": 4.3,
+   "ahe_mom_pct": 0.34,
+   "ahe_yoy_pct": 2.57,
+   "release_time_utc": null
+  },
+  {
+   "period": "2017-08",
+   "nfp_change_k": 147.0,
+   "nfp_level_k": 146919.0,
+   "unemployment_rate": 4.4,
+   "ahe_mom_pct": 0.08,
+   "ahe_yoy_pct": 2.57,
+   "release_time_utc": null
+  },
+  {
+   "period": "2017-09",
+   "nfp_change_k": 89.0,
+   "nfp_level_k": 147008.0,
+   "unemployment_rate": 4.3,
+   "ahe_mom_pct": 0.46,
+   "ahe_yoy_pct": 2.79,
+   "release_time_utc": null
+  },
+  {
+   "period": "2017-10",
+   "nfp_change_k": 141.0,
+   "nfp_level_k": 147149.0,
+   "unemployment_rate": 4.2,
+   "ahe_mom_pct": 0.04,
+   "ahe_yoy_pct": 2.32,
+   "release_time_utc": null
+  },
+  {
+   "period": "2017-11",
+   "nfp_change_k": 223.0,
+   "nfp_level_k": 147372.0,
+   "unemployment_rate": 4.2,
+   "ahe_mom_pct": 0.15,
+   "ahe_yoy_pct": 2.47,
+   "release_time_utc": null
+  },
+  {
+   "period": "2017-12",
+   "nfp_change_k": 151.0,
+   "nfp_level_k": 147523.0,
+   "unemployment_rate": 4.1,
+   "ahe_mom_pct": 0.34,
+   "ahe_yoy_pct": 2.7,
+   "release_time_utc": null
+  },
+  {
+   "period": "2018-01",
+   "nfp_change_k": 137.0,
+   "nfp_level_k": 147660.0,
+   "unemployment_rate": 4.0,
+   "ahe_mom_pct": 0.34,
+   "ahe_yoy_pct": 2.77,
+   "release_time_utc": null
+  },
+  {
+   "period": "2018-02",
+   "nfp_change_k": 394.0,
+   "nfp_level_k": 148054.0,
+   "unemployment_rate": 4.1,
+   "ahe_mom_pct": 0.07,
+   "ahe_yoy_pct": 2.57,
+   "release_time_utc": null
+  },
+  {
+   "period": "2018-03",
+   "nfp_change_k": 226.0,
+   "nfp_level_k": 148280.0,
+   "unemployment_rate": 4.0,
+   "ahe_mom_pct": 0.41,
+   "ahe_yoy_pct": 2.83,
+   "release_time_utc": null
+  },
+  {
+   "period": "2018-04",
+   "nfp_change_k": 140.0,
+   "nfp_level_k": 148420.0,
+   "unemployment_rate": 4.0,
+   "ahe_mom_pct": 0.22,
+   "ahe_yoy_pct": 2.79,
+   "release_time_utc": null
+  },
+  {
+   "period": "2018-05",
+   "nfp_change_k": 322.0,
+   "nfp_level_k": 148742.0,
+   "unemployment_rate": 3.8,
+   "ahe_mom_pct": 0.26,
+   "ahe_yoy_pct": 2.94,
+   "release_time_utc": null
+  },
+  {
+   "period": "2018-06",
+   "nfp_change_k": 218.0,
+   "nfp_level_k": 148960.0,
+   "unemployment_rate": 4.0,
+   "ahe_mom_pct": 0.19,
+   "ahe_yoy_pct": 2.93,
+   "release_time_utc": null
+  },
+  {
+   "period": "2018-07",
+   "nfp_change_k": 60.0,
+   "nfp_level_k": 149020.0,
+   "unemployment_rate": 3.8,
+   "ahe_mom_pct": 0.26,
+   "ahe_yoy_pct": 2.85,
+   "release_time_utc": null
+  },
+  {
+   "period": "2018-08",
+   "nfp_change_k": 257.0,
+   "nfp_level_k": 149277.0,
+   "unemployment_rate": 3.8,
+   "ahe_mom_pct": 0.41,
+   "ahe_yoy_pct": 3.19,
+   "release_time_utc": null
+  },
+  {
+   "period": "2018-09",
+   "nfp_change_k": 81.0,
+   "nfp_level_k": 149358.0,
+   "unemployment_rate": 3.7,
+   "ahe_mom_pct": 0.4,
+   "ahe_yoy_pct": 3.13,
+   "release_time_utc": null
+  },
+  {
+   "period": "2018-10",
+   "nfp_change_k": 169.0,
+   "nfp_level_k": 149527.0,
+   "unemployment_rate": 3.8,
+   "ahe_mom_pct": 0.18,
+   "ahe_yoy_pct": 3.28,
+   "release_time_utc": null
+  },
+  {
+   "period": "2018-11",
+   "nfp_change_k": 90.0,
+   "nfp_level_k": 149617.0,
+   "unemployment_rate": 3.8,
+   "ahe_mom_pct": 0.26,
+   "ahe_yoy_pct": 3.39,
+   "release_time_utc": null
+  },
+  {
+   "period": "2018-12",
+   "nfp_change_k": 192.0,
+   "nfp_level_k": 149809.0,
+   "unemployment_rate": 3.9,
+   "ahe_mom_pct": 0.44,
+   "ahe_yoy_pct": 3.49,
+   "release_time_utc": null
+  },
+  {
+   "period": "2019-01",
+   "nfp_change_k": 251.0,
+   "nfp_level_k": 150060.0,
+   "unemployment_rate": 4.0,
+   "ahe_mom_pct": 0.11,
+   "ahe_yoy_pct": 3.26,
+   "release_time_utc": null
+  },
+  {
+   "period": "2019-02",
+   "nfp_change_k": 7.0,
+   "nfp_level_k": 150067.0,
+   "unemployment_rate": 3.8,
+   "ahe_mom_pct": 0.36,
+   "ahe_yoy_pct": 3.55,
+   "release_time_utc": null
+  },
+  {
+   "period": "2019-03",
+   "nfp_change_k": 228.0,
+   "nfp_level_k": 150295.0,
+   "unemployment_rate": 3.8,
+   "ahe_mom_pct": 0.29,
+   "ahe_yoy_pct": 3.43,
+   "release_time_utc": null
+  },
+  {
+   "period": "2019-04",
+   "nfp_change_k": 296.0,
+   "nfp_level_k": 150591.0,
+   "unemployment_rate": 3.7,
+   "ahe_mom_pct": 0.07,
+   "ahe_yoy_pct": 3.27,
+   "release_time_utc": null
+  },
+  {
+   "period": "2019-05",
+   "nfp_change_k": 27.0,
+   "nfp_level_k": 150618.0,
+   "unemployment_rate": 3.6,
+   "ahe_mom_pct": 0.32,
+   "ahe_yoy_pct": 3.34,
+   "release_time_utc": null
+  },
+  {
+   "period": "2019-06",
+   "nfp_change_k": 220.0,
+   "nfp_level_k": 150838.0,
+   "unemployment_rate": 3.6,
+   "ahe_mom_pct": 0.32,
+   "ahe_yoy_pct": 3.48,
+   "release_time_utc": null
+  },
+  {
+   "period": "2019-07",
+   "nfp_change_k": 99.0,
+   "nfp_level_k": 150937.0,
+   "unemployment_rate": 3.7,
+   "ahe_mom_pct": 0.21,
+   "ahe_yoy_pct": 3.43,
+   "release_time_utc": null
+  },
+  {
+   "period": "2019-08",
+   "nfp_change_k": 232.0,
+   "nfp_level_k": 151169.0,
+   "unemployment_rate": 3.6,
+   "ahe_mom_pct": 0.39,
+   "ahe_yoy_pct": 3.42,
+   "release_time_utc": null
+  },
+  {
+   "period": "2019-09",
+   "nfp_change_k": 196.0,
+   "nfp_level_k": 151365.0,
+   "unemployment_rate": 3.5,
+   "ahe_mom_pct": 0.07,
+   "ahe_yoy_pct": 3.07,
+   "release_time_utc": null
+  },
+  {
+   "period": "2019-10",
+   "nfp_change_k": 95.0,
+   "nfp_level_k": 151460.0,
+   "unemployment_rate": 3.6,
+   "ahe_mom_pct": 0.28,
+   "ahe_yoy_pct": 3.18,
+   "release_time_utc": null
+  },
+  {
+   "period": "2019-11",
+   "nfp_change_k": 207.0,
+   "nfp_level_k": 151667.0,
+   "unemployment_rate": 3.6,
+   "ahe_mom_pct": 0.35,
+   "ahe_yoy_pct": 3.28,
+   "release_time_utc": null
+  },
+  {
+   "period": "2019-12",
+   "nfp_change_k": 127.0,
+   "nfp_level_k": 151794.0,
+   "unemployment_rate": 3.6,
+   "ahe_mom_pct": 0.14,
+   "ahe_yoy_pct": 2.98,
+   "release_time_utc": null
+  },
+  {
+   "period": "2020-01",
+   "nfp_change_k": 237.0,
+   "nfp_level_k": 152031.0,
+   "unemployment_rate": 3.6,
+   "ahe_mom_pct": 0.18,
+   "ahe_yoy_pct": 3.04,
+   "release_time_utc": null
+  },
+  {
+   "period": "2020-02",
+   "nfp_change_k": 262.0,
+   "nfp_level_k": 152293.0,
+   "unemployment_rate": 3.5,
+   "ahe_mom_pct": 0.39,
+   "ahe_yoy_pct": 3.07,
+   "release_time_utc": null
+  },
+  {
+   "period": "2020-03",
+   "nfp_change_k": -1398.0,
+   "nfp_level_k": 150895.0,
+   "unemployment_rate": 4.4,
+   "ahe_mom_pct": 0.67,
+   "ahe_yoy_pct": 3.46,
+   "release_time_utc": null
+  },
+  {
+   "period": "2020-04",
+   "nfp_change_k": -20469.0,
+   "nfp_level_k": 130426.0,
+   "unemployment_rate": 14.8,
+   "ahe_mom_pct": 4.56,
+   "ahe_yoy_pct": 8.1,
+   "release_time_utc": null
+  },
+  {
+   "period": "2020-05",
+   "nfp_change_k": 2614.0,
+   "nfp_level_k": 133040.0,
+   "unemployment_rate": 13.2,
+   "ahe_mom_pct": -1.07,
+   "ahe_yoy_pct": 6.6,
+   "release_time_utc": null
+  },
+  {
+   "period": "2020-06",
+   "nfp_change_k": 4631.0,
+   "nfp_level_k": 137671.0,
+   "unemployment_rate": 11.0,
+   "ahe_mom_pct": -1.14,
+   "ahe_yoy_pct": 5.04,
+   "release_time_utc": null
+  },
+  {
+   "period": "2020-07",
+   "nfp_change_k": 1584.0,
+   "nfp_level_k": 139255.0,
+   "unemployment_rate": 10.2,
+   "ahe_mom_pct": 0.03,
+   "ahe_yoy_pct": 4.85,
+   "release_time_utc": null
+  },
+  {
+   "period": "2020-08",
+   "nfp_change_k": 1566.0,
+   "nfp_level_k": 140821.0,
+   "unemployment_rate": 8.4,
+   "ahe_mom_pct": 0.34,
+   "ahe_yoy_pct": 4.8,
+   "release_time_utc": null
+  },
+  {
+   "period": "2020-09",
+   "nfp_change_k": 949.0,
+   "nfp_level_k": 141770.0,
+   "unemployment_rate": 7.8,
+   "ahe_mom_pct": 0.07,
+   "ahe_yoy_pct": 4.79,
+   "release_time_utc": null
+  },
+  {
+   "period": "2020-10",
+   "nfp_change_k": 690.0,
+   "nfp_level_k": 142460.0,
+   "unemployment_rate": 6.9,
+   "ahe_mom_pct": 0.1,
+   "ahe_yoy_pct": 4.6,
+   "release_time_utc": null
+  },
+  {
+   "period": "2020-11",
+   "nfp_change_k": 273.0,
+   "nfp_level_k": 142733.0,
+   "unemployment_rate": 6.7,
+   "ahe_mom_pct": 0.34,
+   "ahe_yoy_pct": 4.59,
+   "release_time_utc": null
+  },
+  {
+   "period": "2020-12",
+   "nfp_change_k": -185.0,
+   "nfp_level_k": 142548.0,
+   "unemployment_rate": 6.7,
+   "ahe_mom_pct": 0.91,
+   "ahe_yoy_pct": 5.39,
+   "release_time_utc": null
+  },
+  {
+   "period": "2021-01",
+   "nfp_change_k": 315.0,
+   "nfp_level_k": 142863.0,
+   "unemployment_rate": 6.4,
+   "ahe_mom_pct": 0.07,
+   "ahe_yoy_pct": 5.28,
+   "release_time_utc": null
+  },
+  {
+   "period": "2021-02",
+   "nfp_change_k": 517.0,
+   "nfp_level_k": 143380.0,
+   "unemployment_rate": 6.2,
+   "ahe_mom_pct": 0.4,
+   "ahe_yoy_pct": 5.29,
+   "release_time_utc": null
+  },
+  {
+   "period": "2021-03",
+   "nfp_change_k": 852.0,
+   "nfp_level_k": 144232.0,
+   "unemployment_rate": 6.1,
+   "ahe_mom_pct": -0.07,
+   "ahe_yoy_pct": 4.52,
+   "release_time_utc": null
+  },
+  {
+   "period": "2021-04",
+   "nfp_change_k": 355.0,
+   "nfp_level_k": 144587.0,
+   "unemployment_rate": 6.1,
+   "ahe_mom_pct": 0.63,
+   "ahe_yoy_pct": 0.6,
+   "release_time_utc": null
+  },
+  {
+   "period": "2021-05",
+   "nfp_change_k": 478.0,
+   "nfp_level_k": 145065.0,
+   "unemployment_rate": 5.8,
+   "ahe_mom_pct": 0.63,
+   "ahe_yoy_pct": 2.32,
+   "release_time_utc": null
+  },
+  {
+   "period": "2021-06",
+   "nfp_change_k": 755.0,
+   "nfp_level_k": 145820.0,
+   "unemployment_rate": 5.9,
+   "ahe_mom_pct": 0.43,
+   "ahe_yoy_pct": 3.95,
+   "release_time_utc": null
+  },
+  {
+   "period": "2021-07",
+   "nfp_change_k": 942.0,
+   "nfp_level_k": 146762.0,
+   "unemployment_rate": 5.4,
+   "ahe_mom_pct": 0.39,
+   "ahe_yoy_pct": 4.32,
+   "release_time_utc": null
+  },
+  {
+   "period": "2021-08",
+   "nfp_change_k": 552.0,
+   "nfp_level_k": 147314.0,
+   "unemployment_rate": 5.1,
+   "ahe_mom_pct": 0.39,
+   "ahe_yoy_pct": 4.37,
+   "release_time_utc": null
+  },
+  {
+   "period": "2021-09",
+   "nfp_change_k": 457.0,
+   "nfp_level_k": 147771.0,
+   "unemployment_rate": 4.7,
+   "ahe_mom_pct": 0.65,
+   "ahe_yoy_pct": 4.98,
+   "release_time_utc": null
+  },
+  {
+   "period": "2021-10",
+   "nfp_change_k": 801.0,
+   "nfp_level_k": 148572.0,
+   "unemployment_rate": 4.5,
+   "ahe_mom_pct": 0.52,
+   "ahe_yoy_pct": 5.42,
+   "release_time_utc": null
+  },
+  {
+   "period": "2021-11",
+   "nfp_change_k": 658.0,
+   "nfp_level_k": 149230.0,
+   "unemployment_rate": 4.1,
+   "ahe_mom_pct": 0.29,
+   "ahe_yoy_pct": 5.36,
+   "release_time_utc": null
+  },
+  {
+   "period": "2021-12",
+   "nfp_change_k": 586.0,
+   "nfp_level_k": 149816.0,
+   "unemployment_rate": 3.9,
+   "ahe_mom_pct": 0.51,
+   "ahe_yoy_pct": 4.95,
+   "release_time_utc": null
+  },
+  {
+   "period": "2022-01",
+   "nfp_change_k": 190.0,
+   "nfp_level_k": 150006.0,
+   "unemployment_rate": 4.0,
+   "ahe_mom_pct": 0.67,
+   "ahe_yoy_pct": 5.58,
+   "release_time_utc": null
+  },
+  {
+   "period": "2022-02",
+   "nfp_change_k": 819.0,
+   "nfp_level_k": 150825.0,
+   "unemployment_rate": 3.9,
+   "ahe_mom_pct": 0.13,
+   "ahe_yoy_pct": 5.29,
+   "release_time_utc": null
+  },
+  {
+   "period": "2022-03",
+   "nfp_change_k": 490.0,
+   "nfp_level_k": 151315.0,
+   "unemployment_rate": 3.7,
+   "ahe_mom_pct": 0.51,
+   "ahe_yoy_pct": 5.89,
+   "release_time_utc": null
+  },
+  {
+   "period": "2022-04",
+   "nfp_change_k": 308.0,
+   "nfp_level_k": 151623.0,
+   "unemployment_rate": 3.7,
+   "ahe_mom_pct": 0.5,
+   "ahe_yoy_pct": 5.76,
+   "release_time_utc": null
+  },
+  {
+   "period": "2022-05",
+   "nfp_change_k": 301.0,
+   "nfp_level_k": 151924.0,
+   "unemployment_rate": 3.6,
+   "ahe_mom_pct": 0.44,
+   "ahe_yoy_pct": 5.56,
+   "release_time_utc": null
+  },
+  {
+   "period": "2022-06",
+   "nfp_change_k": 434.0,
+   "nfp_level_k": 152358.0,
+   "unemployment_rate": 3.6,
+   "ahe_mom_pct": 0.28,
+   "ahe_yoy_pct": 5.4,
+   "release_time_utc": null
+  },
+  {
+   "period": "2022-07",
+   "nfp_change_k": 714.0,
+   "nfp_level_k": 153072.0,
+   "unemployment_rate": 3.5,
+   "ahe_mom_pct": 0.47,
+   "ahe_yoy_pct": 5.48,
+   "release_time_utc": null
+  },
+  {
+   "period": "2022-08",
+   "nfp_change_k": 290.0,
+   "nfp_level_k": 153362.0,
+   "unemployment_rate": 3.6,
+   "ahe_mom_pct": 0.31,
+   "ahe_yoy_pct": 5.39,
+   "release_time_utc": null
+  },
+  {
+   "period": "2022-09",
+   "nfp_change_k": 220.0,
+   "nfp_level_k": 153582.0,
+   "unemployment_rate": 3.5,
+   "ahe_mom_pct": 0.4,
+   "ahe_yoy_pct": 5.13,
+   "release_time_utc": null
+  },
+  {
+   "period": "2022-10",
+   "nfp_change_k": 357.0,
+   "nfp_level_k": 153939.0,
+   "unemployment_rate": 3.6,
+   "ahe_mom_pct": 0.4,
+   "ahe_yoy_pct": 5.01,
+   "release_time_utc": null
+  },
+  {
+   "period": "2022-11",
+   "nfp_change_k": 303.0,
+   "nfp_level_k": 154242.0,
+   "unemployment_rate": 3.6,
+   "ahe_mom_pct": 0.37,
+   "ahe_yoy_pct": 5.09,
+   "release_time_utc": null
+  },
+  {
+   "period": "2022-12",
+   "nfp_change_k": 100.0,
+   "nfp_level_k": 154342.0,
+   "unemployment_rate": 3.5,
+   "ahe_mom_pct": 0.37,
+   "ahe_yoy_pct": 4.94,
+   "release_time_utc": null
+  },
+  {
+   "period": "2023-01",
+   "nfp_change_k": 434.0,
+   "nfp_level_k": 154776.0,
+   "unemployment_rate": 3.5,
+   "ahe_mom_pct": 0.24,
+   "ahe_yoy_pct": 4.49,
+   "release_time_utc": null
+  },
+  {
+   "period": "2023-02",
+   "nfp_change_k": 290.0,
+   "nfp_level_k": 155066.0,
+   "unemployment_rate": 3.6,
+   "ahe_mom_pct": 0.39,
+   "ahe_yoy_pct": 4.77,
+   "release_time_utc": null
+  },
+  {
+   "period": "2023-03",
+   "nfp_change_k": 68.0,
+   "nfp_level_k": 155134.0,
+   "unemployment_rate": 3.5,
+   "ahe_mom_pct": 0.36,
+   "ahe_yoy_pct": 4.62,
+   "release_time_utc": null
+  },
+  {
+   "period": "2023-04",
+   "nfp_change_k": 241.0,
+   "nfp_level_k": 155375.0,
+   "unemployment_rate": 3.4,
+   "ahe_mom_pct": 0.48,
+   "ahe_yoy_pct": 4.6,
+   "release_time_utc": null
+  },
+  {
+   "period": "2023-05",
+   "nfp_change_k": 280.0,
+   "nfp_level_k": 155655.0,
+   "unemployment_rate": 3.6,
+   "ahe_mom_pct": 0.21,
+   "ahe_yoy_pct": 4.36,
+   "release_time_utc": null
+  },
+  {
+   "period": "2023-06",
+   "nfp_change_k": 225.0,
+   "nfp_level_k": 155880.0,
+   "unemployment_rate": 3.6,
+   "ahe_mom_pct": 0.57,
+   "ahe_yoy_pct": 4.66,
+   "release_time_utc": null
+  },
+  {
+   "period": "2023-07",
+   "nfp_change_k": 163.0,
+   "nfp_level_k": 156043.0,
+   "unemployment_rate": 3.5,
+   "ahe_mom_pct": 0.47,
+   "ahe_yoy_pct": 4.67,
+   "release_time_utc": null
+  },
+  {
+   "period": "2023-08",
+   "nfp_change_k": 218.0,
+   "nfp_level_k": 156261.0,
+   "unemployment_rate": 3.7,
+   "ahe_mom_pct": 0.12,
+   "ahe_yoy_pct": 4.47,
+   "release_time_utc": null
+  },
+  {
+   "period": "2023-09",
+   "nfp_change_k": 156.0,
+   "nfp_level_k": 156417.0,
+   "unemployment_rate": 3.7,
+   "ahe_mom_pct": 0.35,
+   "ahe_yoy_pct": 4.42,
+   "release_time_utc": null
+  },
+  {
+   "period": "2023-10",
+   "nfp_change_k": 159.0,
+   "nfp_level_k": 156576.0,
+   "unemployment_rate": 3.9,
+   "ahe_mom_pct": 0.21,
+   "ahe_yoy_pct": 4.22,
+   "release_time_utc": null
+  },
+  {
+   "period": "2023-11",
+   "nfp_change_k": 127.0,
+   "nfp_level_k": 156703.0,
+   "unemployment_rate": 3.7,
+   "ahe_mom_pct": 0.26,
+   "ahe_yoy_pct": 4.11,
+   "release_time_utc": null
+  },
+  {
+   "period": "2023-12",
+   "nfp_change_k": 154.0,
+   "nfp_level_k": 156857.0,
+   "unemployment_rate": 3.8,
+   "ahe_mom_pct": 0.35,
+   "ahe_yoy_pct": 4.1,
+   "release_time_utc": null
+  },
+  {
+   "period": "2024-01",
+   "nfp_change_k": 175.0,
+   "nfp_level_k": 157032.0,
+   "unemployment_rate": 3.7,
+   "ahe_mom_pct": 0.52,
+   "ahe_yoy_pct": 4.39,
+   "release_time_utc": null
+  },
+  {
+   "period": "2024-02",
+   "nfp_change_k": 206.0,
+   "nfp_level_k": 157238.0,
+   "unemployment_rate": 3.9,
+   "ahe_mom_pct": 0.15,
+   "ahe_yoy_pct": 4.13,
+   "release_time_utc": null
+  },
+  {
+   "period": "2024-03",
+   "nfp_change_k": 228.0,
+   "nfp_level_k": 157466.0,
+   "unemployment_rate": 3.9,
+   "ahe_mom_pct": 0.38,
+   "ahe_yoy_pct": 4.15,
+   "release_time_utc": null
+  },
+  {
+   "period": "2024-04",
+   "nfp_change_k": 64.0,
+   "nfp_level_k": 157530.0,
+   "unemployment_rate": 3.9,
+   "ahe_mom_pct": 0.32,
+   "ahe_yoy_pct": 3.98,
+   "release_time_utc": null
+  },
+  {
+   "period": "2024-05",
+   "nfp_change_k": 78.0,
+   "nfp_level_k": 157608.0,
+   "unemployment_rate": 3.9,
+   "ahe_mom_pct": 0.37,
+   "ahe_yoy_pct": 4.15,
+   "release_time_utc": null
+  },
+  {
+   "period": "2024-06",
+   "nfp_change_k": 87.0,
+   "nfp_level_k": 157695.0,
+   "unemployment_rate": 4.1,
+   "ahe_mom_pct": 0.34,
+   "ahe_yoy_pct": 3.92,
+   "release_time_utc": null
+  },
+  {
+   "period": "2024-07",
+   "nfp_change_k": 53.0,
+   "nfp_level_k": 157748.0,
+   "unemployment_rate": 4.2,
+   "ahe_mom_pct": 0.2,
+   "ahe_yoy_pct": 3.63,
+   "release_time_utc": null
+  },
+  {
+   "period": "2024-08",
+   "nfp_change_k": 9.0,
+   "nfp_level_k": 157757.0,
+   "unemployment_rate": 4.2,
+   "ahe_mom_pct": 0.4,
+   "ahe_yoy_pct": 3.92,
+   "release_time_utc": null
+  },
+  {
+   "period": "2024-09",
+   "nfp_change_k": 155.0,
+   "nfp_level_k": 157912.0,
+   "unemployment_rate": 4.1,
+   "ahe_mom_pct": 0.34,
+   "ahe_yoy_pct": 3.91,
+   "release_time_utc": null
+  },
+  {
+   "period": "2024-10",
+   "nfp_change_k": 33.0,
+   "nfp_level_k": 157945.0,
+   "unemployment_rate": 4.1,
+   "ahe_mom_pct": 0.34,
+   "ahe_yoy_pct": 4.05,
+   "release_time_utc": null
+  },
+  {
+   "period": "2024-11",
+   "nfp_change_k": 134.0,
+   "nfp_level_k": 158079.0,
+   "unemployment_rate": 4.2,
+   "ahe_mom_pct": 0.39,
+   "ahe_yoy_pct": 4.18,
+   "release_time_utc": null
+  },
+  {
+   "period": "2024-12",
+   "nfp_change_k": 237.0,
+   "nfp_level_k": 158316.0,
+   "unemployment_rate": 4.1,
+   "ahe_mom_pct": 0.25,
+   "ahe_yoy_pct": 4.08,
+   "release_time_utc": null
+  },
+  {
+   "period": "2025-01",
+   "nfp_change_k": -48.0,
+   "nfp_level_k": 158268.0,
+   "unemployment_rate": 4.0,
+   "ahe_mom_pct": 0.42,
+   "ahe_yoy_pct": 3.97,
+   "release_time_utc": null
+  },
+  {
+   "period": "2025-02",
+   "nfp_change_k": 42.0,
+   "nfp_level_k": 158310.0,
+   "unemployment_rate": 4.2,
+   "ahe_mom_pct": 0.28,
+   "ahe_yoy_pct": 4.11,
+   "release_time_utc": null
+  },
+  {
+   "period": "2025-03",
+   "nfp_change_k": 67.0,
+   "nfp_level_k": 158377.0,
+   "unemployment_rate": 4.2,
+   "ahe_mom_pct": 0.47,
+   "ahe_yoy_pct": 4.21,
+   "release_time_utc": null
+  },
+  {
+   "period": "2025-04",
+   "nfp_change_k": 108.0,
+   "nfp_level_k": 158485.0,
+   "unemployment_rate": 4.2,
+   "ahe_mom_pct": 0.03,
+   "ahe_yoy_pct": 3.91,
+   "release_time_utc": null
+  },
+  {
+   "period": "2025-05",
+   "nfp_change_k": 13.0,
+   "nfp_level_k": 158498.0,
+   "unemployment_rate": 4.3,
+   "ahe_mom_pct": 0.44,
+   "ahe_yoy_pct": 3.98,
+   "release_time_utc": null
+  },
+  {
+   "period": "2025-06",
+   "nfp_change_k": -20.0,
+   "nfp_level_k": 158478.0,
+   "unemployment_rate": 4.1,
+   "ahe_mom_pct": 0.22,
+   "ahe_yoy_pct": 3.86,
+   "release_time_utc": null
+  },
+  {
+   "period": "2025-07",
+   "nfp_change_k": 64.0,
+   "nfp_level_k": 158542.0,
+   "unemployment_rate": 4.3,
+   "ahe_mom_pct": 0.3,
+   "ahe_yoy_pct": 3.96,
+   "release_time_utc": null
+  },
+  {
+   "period": "2025-08",
+   "nfp_change_k": -70.0,
+   "nfp_level_k": 158472.0,
+   "unemployment_rate": 4.3,
+   "ahe_mom_pct": 0.41,
+   "ahe_yoy_pct": 3.98,
+   "release_time_utc": null
+  },
+  {
+   "period": "2025-09",
+   "nfp_change_k": 76.0,
+   "nfp_level_k": 158548.0,
+   "unemployment_rate": 4.4,
+   "ahe_mom_pct": 0.22,
+   "ahe_yoy_pct": 3.85,
+   "release_time_utc": null
+  },
+  {
+   "period": "2025-10",
+   "nfp_change_k": -140.0,
+   "nfp_level_k": 158408.0,
+   "unemployment_rate": null,
+   "ahe_mom_pct": 0.41,
+   "ahe_yoy_pct": 3.92,
+   "release_time_utc": null
+  },
+  {
+   "period": "2025-11",
+   "nfp_change_k": 41.0,
+   "nfp_level_k": 158449.0,
+   "unemployment_rate": 4.5,
+   "ahe_mom_pct": 0.41,
+   "ahe_yoy_pct": 3.93,
+   "release_time_utc": null
+  },
+  {
+   "period": "2025-12",
+   "nfp_change_k": -17.0,
+   "nfp_level_k": 158432.0,
+   "unemployment_rate": 4.4,
+   "ahe_mom_pct": 0.05,
+   "ahe_yoy_pct": 3.73,
+   "release_time_utc": null
+  },
+  {
+   "period": "2026-01",
+   "nfp_change_k": 160.0,
+   "nfp_level_k": 158592.0,
+   "unemployment_rate": 4.3,
+   "ahe_mom_pct": 0.35,
+   "ahe_yoy_pct": 3.66,
+   "release_time_utc": null
+  },
+  {
+   "period": "2026-02",
+   "nfp_change_k": -156.0,
+   "nfp_level_k": 158436.0,
+   "unemployment_rate": 4.4,
+   "ahe_mom_pct": 0.32,
+   "ahe_yoy_pct": 3.7,
+   "release_time_utc": null
+  },
+  {
+   "period": "2026-03",
+   "nfp_change_k": 214.0,
+   "nfp_level_k": 158650.0,
+   "unemployment_rate": 4.3,
+   "ahe_mom_pct": 0.21,
+   "ahe_yoy_pct": 3.43,
+   "release_time_utc": null
+  },
+  {
+   "period": "2026-04",
+   "nfp_change_k": 148.0,
+   "nfp_level_k": 158798.0,
+   "unemployment_rate": 4.3,
+   "ahe_mom_pct": 0.16,
+   "ahe_yoy_pct": 3.57,
+   "release_time_utc": null
+  },
+  {
+   "period": "2026-05",
+   "nfp_change_k": 63.0,
+   "nfp_level_k": 158861.0,
+   "unemployment_rate": 4.3,
+   "ahe_mom_pct": 0.21,
+   "ahe_yoy_pct": 3.34,
+   "release_time_utc": null
+  },
+  {
+   "period": "2026-06",
+   "nfp_change_k": 31.0,
+   "nfp_level_k": 158892.0,
+   "unemployment_rate": 4.2,
+   "ahe_mom_pct": 0.27,
+   "ahe_yoy_pct": 3.38,
+   "release_time_utc": null
+  },
+  {
+   "period": "2026-07",
+   "nfp_change_k": -10.0,
+   "nfp_level_k": 158882.0,
+   "unemployment_rate": 4.1,
+   "ahe_mom_pct": 0.13,
+   "ahe_yoy_pct": 3.21,
+   "release_time_utc": null
+  },
+  {
+   "period": "2026-08",
+   "nfp_change_k": 133.0,
+   "nfp_level_k": 159015.0,
+   "unemployment_rate": 4.1,
+   "ahe_mom_pct": 0.32,
+   "ahe_yoy_pct": 3.11,
+   "release_time_utc": null
+  },
+  {
+   "period": "2026-09",
+   "nfp_change_k": 29.0,
+   "nfp_level_k": 159044.0,
+   "unemployment_rate": 4.2,
+   "ahe_mom_pct": 0.13,
+   "ahe_yoy_pct": 3.02,
+   "release_time_utc": null
+  }
+ ]
+}

@@ -1,0 +1,1887 @@
+{
+ "updated": "2026-10-05T15:17:15Z",
+ "licence": "US Government work, public domain. Compiled by Chart Guy Data.",
+ "note": "Latest revised values. first_print is recorded from the first time this pipeline saw a release.",
+ "rows": [
+  {
+   "period": "2007-01",
+   "cpi_mom_pct": null,
+   "cpi_yoy_pct": null,
+   "core_mom_pct": null,
+   "core_yoy_pct": null,
+   "release_time_utc": null
+  },
+  {
+   "period": "2007-02",
+   "cpi_mom_pct": 0.39,
+   "cpi_yoy_pct": null,
+   "core_mom_pct": 0.26,
+   "core_yoy_pct": null,
+   "release_time_utc": null
+  },
+  {
+   "period": "2007-03",
+   "cpi_mom_pct": 0.52,
+   "cpi_yoy_pct": null,
+   "core_mom_pct": 0.14,
+   "core_yoy_pct": null,
+   "release_time_utc": null
+  },
+  {
+   "period": "2007-04",
+   "cpi_mom_pct": 0.3,
+   "cpi_yoy_pct": null,
+   "core_mom_pct": 0.16,
+   "core_yoy_pct": null,
+   "release_time_utc": null
+  },
+  {
+   "period": "2007-05",
+   "cpi_mom_pct": 0.41,
+   "cpi_yoy_pct": null,
+   "core_mom_pct": 0.15,
+   "core_yoy_pct": null,
+   "release_time_utc": null
+  },
+  {
+   "period": "2007-06",
+   "cpi_mom_pct": 0.23,
+   "cpi_yoy_pct": null,
+   "core_mom_pct": 0.16,
+   "core_yoy_pct": null,
+   "release_time_utc": null
+  },
+  {
+   "period": "2007-07",
+   "cpi_mom_pct": 0.18,
+   "cpi_yoy_pct": null,
+   "core_mom_pct": 0.18,
+   "core_yoy_pct": null,
+   "release_time_utc": null
+  },
+  {
+   "period": "2007-08",
+   "cpi_mom_pct": 0.03,
+   "cpi_yoy_pct": null,
+   "core_mom_pct": 0.16,
+   "core_yoy_pct": null,
+   "release_time_utc": null
+  },
+  {
+   "period": "2007-09",
+   "cpi_mom_pct": 0.42,
+   "cpi_yoy_pct": null,
+   "core_mom_pct": 0.21,
+   "core_yoy_pct": null,
+   "release_time_utc": null
+  },
+  {
+   "period": "2007-10",
+   "cpi_mom_pct": 0.31,
+   "cpi_yoy_pct": null,
+   "core_mom_pct": 0.25,
+   "core_yoy_pct": null,
+   "release_time_utc": null
+  },
+  {
+   "period": "2007-11",
+   "cpi_mom_pct": 0.79,
+   "cpi_yoy_pct": null,
+   "core_mom_pct": 0.27,
+   "core_yoy_pct": null,
+   "release_time_utc": null
+  },
+  {
+   "period": "2007-12",
+   "cpi_mom_pct": 0.29,
+   "cpi_yoy_pct": null,
+   "core_mom_pct": 0.24,
+   "core_yoy_pct": null,
+   "release_time_utc": null
+  },
+  {
+   "period": "2008-01",
+   "cpi_mom_pct": 0.34,
+   "cpi_yoy_pct": 4.28,
+   "core_mom_pct": 0.28,
+   "core_yoy_pct": 2.47,
+   "release_time_utc": null
+  },
+  {
+   "period": "2008-02",
+   "cpi_mom_pct": 0.24,
+   "cpi_yoy_pct": 4.03,
+   "core_mom_pct": 0.08,
+   "core_yoy_pct": 2.27,
+   "release_time_utc": null
+  },
+  {
+   "period": "2008-03",
+   "cpi_mom_pct": 0.36,
+   "cpi_yoy_pct": 3.98,
+   "core_mom_pct": 0.22,
+   "core_yoy_pct": 2.35,
+   "release_time_utc": null
+  },
+  {
+   "period": "2008-04",
+   "cpi_mom_pct": 0.23,
+   "cpi_yoy_pct": 3.94,
+   "core_mom_pct": 0.07,
+   "core_yoy_pct": 2.26,
+   "release_time_utc": null
+  },
+  {
+   "period": "2008-05",
+   "cpi_mom_pct": 0.59,
+   "cpi_yoy_pct": 4.18,
+   "core_mom_pct": 0.18,
+   "core_yoy_pct": 2.31,
+   "release_time_utc": null
+  },
+  {
+   "period": "2008-06",
+   "cpi_mom_pct": 1.05,
+   "cpi_yoy_pct": 5.02,
+   "core_mom_pct": 0.23,
+   "core_yoy_pct": 2.41,
+   "release_time_utc": null
+  },
+  {
+   "period": "2008-07",
+   "cpi_mom_pct": 0.71,
+   "cpi_yoy_pct": 5.6,
+   "core_mom_pct": 0.25,
+   "core_yoy_pct": 2.51,
+   "release_time_utc": null
+  },
+  {
+   "period": "2008-08",
+   "cpi_mom_pct": -0.15,
+   "cpi_yoy_pct": 5.37,
+   "core_mom_pct": 0.2,
+   "core_yoy_pct": 2.54,
+   "release_time_utc": null
+  },
+  {
+   "period": "2008-09",
+   "cpi_mom_pct": 0.09,
+   "cpi_yoy_pct": 4.94,
+   "core_mom_pct": 0.15,
+   "core_yoy_pct": 2.47,
+   "release_time_utc": null
+  },
+  {
+   "period": "2008-10",
+   "cpi_mom_pct": -0.86,
+   "cpi_yoy_pct": 3.66,
+   "core_mom_pct": 0.03,
+   "core_yoy_pct": 2.22,
+   "release_time_utc": null
+  },
+  {
+   "period": "2008-11",
+   "cpi_mom_pct": -1.77,
+   "cpi_yoy_pct": 1.07,
+   "core_mom_pct": 0.07,
+   "core_yoy_pct": 2.0,
+   "release_time_utc": null
+  },
+  {
+   "period": "2008-12",
+   "cpi_mom_pct": -0.82,
+   "cpi_yoy_pct": 0.09,
+   "core_mom_pct": -0.01,
+   "core_yoy_pct": 1.76,
+   "release_time_utc": null
+  },
+  {
+   "period": "2009-01",
+   "cpi_mom_pct": 0.25,
+   "cpi_yoy_pct": 0.03,
+   "core_mom_pct": 0.19,
+   "core_yoy_pct": 1.68,
+   "release_time_utc": null
+  },
+  {
+   "period": "2009-02",
+   "cpi_mom_pct": 0.36,
+   "cpi_yoy_pct": 0.24,
+   "core_mom_pct": 0.21,
+   "core_yoy_pct": 1.79,
+   "release_time_utc": null
+  },
+  {
+   "period": "2009-03",
+   "cpi_mom_pct": -0.1,
+   "cpi_yoy_pct": -0.38,
+   "core_mom_pct": 0.21,
+   "core_yoy_pct": 1.76,
+   "release_time_utc": null
+  },
+  {
+   "period": "2009-04",
+   "cpi_mom_pct": 0.1,
+   "cpi_yoy_pct": -0.74,
+   "core_mom_pct": 0.21,
+   "core_yoy_pct": 1.9,
+   "release_time_utc": null
+  },
+  {
+   "period": "2009-05",
+   "cpi_mom_pct": 0.15,
+   "cpi_yoy_pct": -1.28,
+   "core_mom_pct": 0.09,
+   "core_yoy_pct": 1.83,
+   "release_time_utc": null
+  },
+  {
+   "period": "2009-06",
+   "cpi_mom_pct": 0.83,
+   "cpi_yoy_pct": -1.43,
+   "core_mom_pct": 0.1,
+   "core_yoy_pct": 1.73,
+   "release_time_utc": null
+  },
+  {
+   "period": "2009-07",
+   "cpi_mom_pct": -0.03,
+   "cpi_yoy_pct": -2.1,
+   "core_mom_pct": 0.07,
+   "core_yoy_pct": 1.53,
+   "release_time_utc": null
+  },
+  {
+   "period": "2009-08",
+   "cpi_mom_pct": 0.33,
+   "cpi_yoy_pct": -1.48,
+   "core_mom_pct": 0.11,
+   "core_yoy_pct": 1.44,
+   "release_time_utc": null
+  },
+  {
+   "period": "2009-09",
+   "cpi_mom_pct": 0.19,
+   "cpi_yoy_pct": -1.29,
+   "core_mom_pct": 0.19,
+   "core_yoy_pct": 1.51,
+   "release_time_utc": null
+  },
+  {
+   "period": "2009-10",
+   "cpi_mom_pct": 0.3,
+   "cpi_yoy_pct": -0.18,
+   "core_mom_pct": 0.26,
+   "core_yoy_pct": 1.71,
+   "release_time_utc": null
+  },
+  {
+   "period": "2009-11",
+   "cpi_mom_pct": 0.33,
+   "cpi_yoy_pct": 1.84,
+   "core_mom_pct": 0.07,
+   "core_yoy_pct": 1.7,
+   "release_time_utc": null
+  },
+  {
+   "period": "2009-12",
+   "cpi_mom_pct": 0.05,
+   "cpi_yoy_pct": 2.72,
+   "core_mom_pct": 0.1,
+   "core_yoy_pct": 1.82,
+   "release_time_utc": null
+  },
+  {
+   "period": "2010-01",
+   "cpi_mom_pct": 0.06,
+   "cpi_yoy_pct": 2.63,
+   "core_mom_pct": -0.11,
+   "core_yoy_pct": 1.55,
+   "release_time_utc": null
+  },
+  {
+   "period": "2010-02",
+   "cpi_mom_pct": -0.1,
+   "cpi_yoy_pct": 2.14,
+   "core_mom_pct": 0.04,
+   "core_yoy_pct": 1.34,
+   "release_time_utc": null
+  },
+  {
+   "period": "2010-03",
+   "cpi_mom_pct": 0.03,
+   "cpi_yoy_pct": 2.31,
+   "core_mom_pct": 0.02,
+   "core_yoy_pct": 1.11,
+   "release_time_utc": null
+  },
+  {
+   "period": "2010-04",
+   "cpi_mom_pct": 0.02,
+   "cpi_yoy_pct": 2.24,
+   "core_mom_pct": 0.02,
+   "core_yoy_pct": 0.92,
+   "release_time_utc": null
+  },
+  {
+   "period": "2010-05",
+   "cpi_mom_pct": -0.05,
+   "cpi_yoy_pct": 2.02,
+   "core_mom_pct": 0.06,
+   "core_yoy_pct": 0.94,
+   "release_time_utc": null
+  },
+  {
+   "period": "2010-06",
+   "cpi_mom_pct": -0.04,
+   "cpi_yoy_pct": 1.05,
+   "core_mom_pct": 0.1,
+   "core_yoy_pct": 0.9,
+   "release_time_utc": null
+  },
+  {
+   "period": "2010-07",
+   "cpi_mom_pct": 0.19,
+   "cpi_yoy_pct": 1.24,
+   "core_mom_pct": 0.08,
+   "core_yoy_pct": 0.87,
+   "release_time_utc": null
+  },
+  {
+   "period": "2010-08",
+   "cpi_mom_pct": 0.15,
+   "cpi_yoy_pct": 1.15,
+   "core_mom_pct": 0.07,
+   "core_yoy_pct": 0.89,
+   "release_time_utc": null
+  },
+  {
+   "period": "2010-09",
+   "cpi_mom_pct": 0.16,
+   "cpi_yoy_pct": 1.14,
+   "core_mom_pct": 0.09,
+   "core_yoy_pct": 0.8,
+   "release_time_utc": null
+  },
+  {
+   "period": "2010-10",
+   "cpi_mom_pct": 0.35,
+   "cpi_yoy_pct": 1.17,
+   "core_mom_pct": 0.05,
+   "core_yoy_pct": 0.61,
+   "release_time_utc": null
+  },
+  {
+   "period": "2010-11",
+   "cpi_mom_pct": 0.25,
+   "cpi_yoy_pct": 1.14,
+   "core_mom_pct": 0.14,
+   "core_yoy_pct": 0.77,
+   "release_time_utc": null
+  },
+  {
+   "period": "2010-12",
+   "cpi_mom_pct": 0.4,
+   "cpi_yoy_pct": 1.5,
+   "core_mom_pct": 0.09,
+   "core_yoy_pct": 0.8,
+   "release_time_utc": null
+  },
+  {
+   "period": "2011-01",
+   "cpi_mom_pct": 0.32,
+   "cpi_yoy_pct": 1.63,
+   "core_mom_pct": 0.21,
+   "core_yoy_pct": 0.95,
+   "release_time_utc": null
+  },
+  {
+   "period": "2011-02",
+   "cpi_mom_pct": 0.32,
+   "cpi_yoy_pct": 2.11,
+   "core_mom_pct": 0.18,
+   "core_yoy_pct": 1.09,
+   "release_time_utc": null
+  },
+  {
+   "period": "2011-03",
+   "cpi_mom_pct": 0.52,
+   "cpi_yoy_pct": 2.68,
+   "core_mom_pct": 0.11,
+   "core_yoy_pct": 1.19,
+   "release_time_utc": null
+  },
+  {
+   "period": "2011-04",
+   "cpi_mom_pct": 0.47,
+   "cpi_yoy_pct": 3.16,
+   "core_mom_pct": 0.12,
+   "core_yoy_pct": 1.33,
+   "release_time_utc": null
+  },
+  {
+   "period": "2011-05",
+   "cpi_mom_pct": 0.32,
+   "cpi_yoy_pct": 3.57,
+   "core_mom_pct": 0.2,
+   "core_yoy_pct": 1.51,
+   "release_time_utc": null
+  },
+  {
+   "period": "2011-06",
+   "cpi_mom_pct": 0.0,
+   "cpi_yoy_pct": 3.56,
+   "core_mom_pct": 0.23,
+   "core_yoy_pct": 1.64,
+   "release_time_utc": null
+  },
+  {
+   "period": "2011-07",
+   "cpi_mom_pct": 0.26,
+   "cpi_yoy_pct": 3.63,
+   "core_mom_pct": 0.23,
+   "core_yoy_pct": 1.77,
+   "release_time_utc": null
+  },
+  {
+   "period": "2011-08",
+   "cpi_mom_pct": 0.32,
+   "cpi_yoy_pct": 3.77,
+   "core_mom_pct": 0.29,
+   "core_yoy_pct": 1.95,
+   "release_time_utc": null
+  },
+  {
+   "period": "2011-09",
+   "cpi_mom_pct": 0.22,
+   "cpi_yoy_pct": 3.87,
+   "core_mom_pct": 0.11,
+   "core_yoy_pct": 1.97,
+   "release_time_utc": null
+  },
+  {
+   "period": "2011-10",
+   "cpi_mom_pct": 0.07,
+   "cpi_yoy_pct": 3.53,
+   "core_mom_pct": 0.17,
+   "core_yoy_pct": 2.1,
+   "release_time_utc": null
+  },
+  {
+   "period": "2011-11",
+   "cpi_mom_pct": 0.18,
+   "cpi_yoy_pct": 3.39,
+   "core_mom_pct": 0.17,
+   "core_yoy_pct": 2.15,
+   "release_time_utc": null
+  },
+  {
+   "period": "2011-12",
+   "cpi_mom_pct": 0.02,
+   "cpi_yoy_pct": 2.96,
+   "core_mom_pct": 0.22,
+   "core_yoy_pct": 2.23,
+   "release_time_utc": null
+  },
+  {
+   "period": "2012-01",
+   "cpi_mom_pct": 0.27,
+   "cpi_yoy_pct": 2.93,
+   "core_mom_pct": 0.21,
+   "core_yoy_pct": 2.28,
+   "release_time_utc": null
+  },
+  {
+   "period": "2012-02",
+   "cpi_mom_pct": 0.21,
+   "cpi_yoy_pct": 2.87,
+   "core_mom_pct": 0.07,
+   "core_yoy_pct": 2.18,
+   "release_time_utc": null
+  },
+  {
+   "period": "2012-03",
+   "cpi_mom_pct": 0.21,
+   "cpi_yoy_pct": 2.65,
+   "core_mom_pct": 0.19,
+   "core_yoy_pct": 2.26,
+   "release_time_utc": null
+  },
+  {
+   "period": "2012-04",
+   "cpi_mom_pct": 0.17,
+   "cpi_yoy_pct": 2.3,
+   "core_mom_pct": 0.19,
+   "core_yoy_pct": 2.31,
+   "release_time_utc": null
+  },
+  {
+   "period": "2012-05",
+   "cpi_mom_pct": -0.21,
+   "cpi_yoy_pct": 1.7,
+   "core_mom_pct": 0.14,
+   "core_yoy_pct": 2.26,
+   "release_time_utc": null
+  },
+  {
+   "period": "2012-06",
+   "cpi_mom_pct": -0.08,
+   "cpi_yoy_pct": 1.66,
+   "core_mom_pct": 0.17,
+   "core_yoy_pct": 2.22,
+   "release_time_utc": null
+  },
+  {
+   "period": "2012-07",
+   "cpi_mom_pct": 0.03,
+   "cpi_yoy_pct": 1.41,
+   "core_mom_pct": 0.15,
+   "core_yoy_pct": 2.1,
+   "release_time_utc": null
+  },
+  {
+   "period": "2012-08",
+   "cpi_mom_pct": 0.58,
+   "cpi_yoy_pct": 1.69,
+   "core_mom_pct": 0.11,
+   "core_yoy_pct": 1.91,
+   "release_time_utc": null
+  },
+  {
+   "period": "2012-09",
+   "cpi_mom_pct": 0.48,
+   "cpi_yoy_pct": 1.99,
+   "core_mom_pct": 0.19,
+   "core_yoy_pct": 1.98,
+   "release_time_utc": null
+  },
+  {
+   "period": "2012-10",
+   "cpi_mom_pct": 0.27,
+   "cpi_yoy_pct": 2.16,
+   "core_mom_pct": 0.16,
+   "core_yoy_pct": 2.0,
+   "release_time_utc": null
+  },
+  {
+   "period": "2012-11",
+   "cpi_mom_pct": -0.17,
+   "cpi_yoy_pct": 1.76,
+   "core_mom_pct": 0.13,
+   "core_yoy_pct": 1.94,
+   "release_time_utc": null
+  },
+  {
+   "period": "2012-12",
+   "cpi_mom_pct": -0.01,
+   "cpi_yoy_pct": 1.74,
+   "core_mom_pct": 0.17,
+   "core_yoy_pct": 1.89,
+   "release_time_utc": null
+  },
+  {
+   "period": "2013-01",
+   "cpi_mom_pct": 0.2,
+   "cpi_yoy_pct": 1.59,
+   "core_mom_pct": 0.22,
+   "core_yoy_pct": 1.93,
+   "release_time_utc": null
+  },
+  {
+   "period": "2013-02",
+   "cpi_mom_pct": 0.54,
+   "cpi_yoy_pct": 1.98,
+   "core_mom_pct": 0.15,
+   "core_yoy_pct": 2.0,
+   "release_time_utc": null
+  },
+  {
+   "period": "2013-03",
+   "cpi_mom_pct": -0.28,
+   "cpi_yoy_pct": 1.47,
+   "core_mom_pct": 0.1,
+   "core_yoy_pct": 1.89,
+   "release_time_utc": null
+  },
+  {
+   "period": "2013-04",
+   "cpi_mom_pct": -0.21,
+   "cpi_yoy_pct": 1.06,
+   "core_mom_pct": 0.02,
+   "core_yoy_pct": 1.72,
+   "release_time_utc": null
+  },
+  {
+   "period": "2013-05",
+   "cpi_mom_pct": 0.04,
+   "cpi_yoy_pct": 1.36,
+   "core_mom_pct": 0.07,
+   "core_yoy_pct": 1.68,
+   "release_time_utc": null
+  },
+  {
+   "period": "2013-06",
+   "cpi_mom_pct": 0.24,
+   "cpi_yoy_pct": 1.75,
+   "core_mom_pct": 0.15,
+   "core_yoy_pct": 1.64,
+   "release_time_utc": null
+  },
+  {
+   "period": "2013-07",
+   "cpi_mom_pct": 0.2,
+   "cpi_yoy_pct": 1.96,
+   "core_mom_pct": 0.23,
+   "core_yoy_pct": 1.7,
+   "release_time_utc": null
+  },
+  {
+   "period": "2013-08",
+   "cpi_mom_pct": 0.24,
+   "cpi_yoy_pct": 1.52,
+   "core_mom_pct": 0.19,
+   "core_yoy_pct": 1.76,
+   "release_time_utc": null
+  },
+  {
+   "period": "2013-09",
+   "cpi_mom_pct": 0.04,
+   "cpi_yoy_pct": 1.18,
+   "core_mom_pct": 0.16,
+   "core_yoy_pct": 1.73,
+   "release_time_utc": null
+  },
+  {
+   "period": "2013-10",
+   "cpi_mom_pct": 0.05,
+   "cpi_yoy_pct": 0.96,
+   "core_mom_pct": 0.09,
+   "core_yoy_pct": 1.68,
+   "release_time_utc": null
+  },
+  {
+   "period": "2013-11",
+   "cpi_mom_pct": 0.18,
+   "cpi_yoy_pct": 1.24,
+   "core_mom_pct": 0.19,
+   "core_yoy_pct": 1.72,
+   "release_time_utc": null
+  },
+  {
+   "period": "2013-12",
+   "cpi_mom_pct": 0.26,
+   "cpi_yoy_pct": 1.5,
+   "core_mom_pct": 0.17,
+   "core_yoy_pct": 1.72,
+   "release_time_utc": null
+  },
+  {
+   "period": "2014-01",
+   "cpi_mom_pct": 0.24,
+   "cpi_yoy_pct": 1.58,
+   "core_mom_pct": 0.09,
+   "core_yoy_pct": 1.62,
+   "release_time_utc": null
+  },
+  {
+   "period": "2014-02",
+   "cpi_mom_pct": 0.11,
+   "cpi_yoy_pct": 1.13,
+   "core_mom_pct": 0.09,
+   "core_yoy_pct": 1.57,
+   "release_time_utc": null
+  },
+  {
+   "period": "2014-03",
+   "cpi_mom_pct": 0.2,
+   "cpi_yoy_pct": 1.51,
+   "core_mom_pct": 0.19,
+   "core_yoy_pct": 1.66,
+   "release_time_utc": null
+  },
+  {
+   "period": "2014-04",
+   "cpi_mom_pct": 0.19,
+   "cpi_yoy_pct": 1.95,
+   "core_mom_pct": 0.19,
+   "core_yoy_pct": 1.83,
+   "release_time_utc": null
+  },
+  {
+   "period": "2014-05",
+   "cpi_mom_pct": 0.19,
+   "cpi_yoy_pct": 2.13,
+   "core_mom_pct": 0.19,
+   "core_yoy_pct": 1.96,
+   "release_time_utc": null
+  },
+  {
+   "period": "2014-06",
+   "cpi_mom_pct": 0.13,
+   "cpi_yoy_pct": 2.07,
+   "core_mom_pct": 0.13,
+   "core_yoy_pct": 1.93,
+   "release_time_utc": null
+  },
+  {
+   "period": "2014-07",
+   "cpi_mom_pct": 0.11,
+   "cpi_yoy_pct": 1.99,
+   "core_mom_pct": 0.15,
+   "core_yoy_pct": 1.86,
+   "release_time_utc": null
+  },
+  {
+   "period": "2014-08",
+   "cpi_mom_pct": -0.02,
+   "cpi_yoy_pct": 1.7,
+   "core_mom_pct": 0.09,
+   "core_yoy_pct": 1.72,
+   "release_time_utc": null
+  },
+  {
+   "period": "2014-09",
+   "cpi_mom_pct": 0.01,
+   "cpi_yoy_pct": 1.66,
+   "core_mom_pct": 0.16,
+   "core_yoy_pct": 1.73,
+   "release_time_utc": null
+  },
+  {
+   "period": "2014-10",
+   "cpi_mom_pct": -0.02,
+   "cpi_yoy_pct": 1.66,
+   "core_mom_pct": 0.17,
+   "core_yoy_pct": 1.81,
+   "release_time_utc": null
+  },
+  {
+   "period": "2014-11",
+   "cpi_mom_pct": -0.19,
+   "cpi_yoy_pct": 1.32,
+   "core_mom_pct": 0.11,
+   "core_yoy_pct": 1.7,
+   "release_time_utc": null
+  },
+  {
+   "period": "2014-12",
+   "cpi_mom_pct": -0.31,
+   "cpi_yoy_pct": 0.76,
+   "core_mom_pct": 0.05,
+   "core_yoy_pct": 1.61,
+   "release_time_utc": null
+  },
+  {
+   "period": "2015-01",
+   "cpi_mom_pct": -0.64,
+   "cpi_yoy_pct": -0.09,
+   "core_mom_pct": 0.09,
+   "core_yoy_pct": 1.65,
+   "release_time_utc": null
+  },
+  {
+   "period": "2015-02",
+   "cpi_mom_pct": 0.25,
+   "cpi_yoy_pct": -0.03,
+   "core_mom_pct": 0.15,
+   "core_yoy_pct": 1.7,
+   "release_time_utc": null
+  },
+  {
+   "period": "2015-03",
+   "cpi_mom_pct": 0.27,
+   "cpi_yoy_pct": -0.07,
+   "core_mom_pct": 0.24,
+   "core_yoy_pct": 1.75,
+   "release_time_utc": null
+  },
+  {
+   "period": "2015-04",
+   "cpi_mom_pct": 0.1,
+   "cpi_yoy_pct": -0.2,
+   "core_mom_pct": 0.25,
+   "core_yoy_pct": 1.81,
+   "release_time_utc": null
+  },
+  {
+   "period": "2015-05",
+   "cpi_mom_pct": 0.33,
+   "cpi_yoy_pct": -0.04,
+   "core_mom_pct": 0.14,
+   "core_yoy_pct": 1.72,
+   "release_time_utc": null
+  },
+  {
+   "period": "2015-06",
+   "cpi_mom_pct": 0.28,
+   "cpi_yoy_pct": 0.12,
+   "core_mom_pct": 0.16,
+   "core_yoy_pct": 1.76,
+   "release_time_utc": null
+  },
+  {
+   "period": "2015-07",
+   "cpi_mom_pct": 0.16,
+   "cpi_yoy_pct": 0.17,
+   "core_mom_pct": 0.21,
+   "core_yoy_pct": 1.8,
+   "release_time_utc": null
+  },
+  {
+   "period": "2015-08",
+   "cpi_mom_pct": -0.0,
+   "cpi_yoy_pct": 0.2,
+   "core_mom_pct": 0.1,
+   "core_yoy_pct": 1.83,
+   "release_time_utc": null
+  },
+  {
+   "period": "2015-09",
+   "cpi_mom_pct": -0.22,
+   "cpi_yoy_pct": -0.04,
+   "core_mom_pct": 0.21,
+   "core_yoy_pct": 1.89,
+   "release_time_utc": null
+  },
+  {
+   "period": "2015-10",
+   "cpi_mom_pct": 0.1,
+   "cpi_yoy_pct": 0.17,
+   "core_mom_pct": 0.19,
+   "core_yoy_pct": 1.91,
+   "release_time_utc": null
+  },
+  {
+   "period": "2015-11",
+   "cpi_mom_pct": 0.12,
+   "cpi_yoy_pct": 0.5,
+   "core_mom_pct": 0.19,
+   "core_yoy_pct": 2.02,
+   "release_time_utc": null
+  },
+  {
+   "period": "2015-12",
+   "cpi_mom_pct": -0.11,
+   "cpi_yoy_pct": 0.73,
+   "core_mom_pct": 0.13,
+   "core_yoy_pct": 2.1,
+   "release_time_utc": null
+  },
+  {
+   "period": "2016-01",
+   "cpi_mom_pct": -0.05,
+   "cpi_yoy_pct": 1.37,
+   "core_mom_pct": 0.17,
+   "core_yoy_pct": 2.21,
+   "release_time_utc": null
+  },
+  {
+   "period": "2016-02",
+   "cpi_mom_pct": -0.13,
+   "cpi_yoy_pct": 1.02,
+   "core_mom_pct": 0.23,
+   "core_yoy_pct": 2.33,
+   "release_time_utc": null
+  },
+  {
+   "period": "2016-03",
+   "cpi_mom_pct": 0.31,
+   "cpi_yoy_pct": 0.85,
+   "core_mom_pct": 0.16,
+   "core_yoy_pct": 2.19,
+   "release_time_utc": null
+  },
+  {
+   "period": "2016-04",
+   "cpi_mom_pct": 0.38,
+   "cpi_yoy_pct": 1.13,
+   "core_mom_pct": 0.26,
+   "core_yoy_pct": 2.15,
+   "release_time_utc": null
+  },
+  {
+   "period": "2016-05",
+   "cpi_mom_pct": 0.24,
+   "cpi_yoy_pct": 1.02,
+   "core_mom_pct": 0.24,
+   "core_yoy_pct": 2.24,
+   "release_time_utc": null
+  },
+  {
+   "period": "2016-06",
+   "cpi_mom_pct": 0.28,
+   "cpi_yoy_pct": 1.0,
+   "core_mom_pct": 0.16,
+   "core_yoy_pct": 2.24,
+   "release_time_utc": null
+  },
+  {
+   "period": "2016-07",
+   "cpi_mom_pct": -0.05,
+   "cpi_yoy_pct": 0.83,
+   "core_mom_pct": 0.12,
+   "core_yoy_pct": 2.19,
+   "release_time_utc": null
+  },
+  {
+   "period": "2016-08",
+   "cpi_mom_pct": 0.18,
+   "cpi_yoy_pct": 1.06,
+   "core_mom_pct": 0.24,
+   "core_yoy_pct": 2.32,
+   "release_time_utc": null
+  },
+  {
+   "period": "2016-09",
+   "cpi_mom_pct": 0.26,
+   "cpi_yoy_pct": 1.46,
+   "core_mom_pct": 0.17,
+   "core_yoy_pct": 2.21,
+   "release_time_utc": null
+  },
+  {
+   "period": "2016-10",
+   "cpi_mom_pct": 0.23,
+   "cpi_yoy_pct": 1.64,
+   "core_mom_pct": 0.12,
+   "core_yoy_pct": 2.14,
+   "release_time_utc": null
+  },
+  {
+   "period": "2016-11",
+   "cpi_mom_pct": 0.12,
+   "cpi_yoy_pct": 1.69,
+   "core_mom_pct": 0.14,
+   "core_yoy_pct": 2.11,
+   "release_time_utc": null
+  },
+  {
+   "period": "2016-12",
+   "cpi_mom_pct": 0.25,
+   "cpi_yoy_pct": 2.07,
+   "core_mom_pct": 0.18,
+   "core_yoy_pct": 2.2,
+   "release_time_utc": null
+  },
+  {
+   "period": "2017-01",
+   "cpi_mom_pct": 0.4,
+   "cpi_yoy_pct": 2.5,
+   "core_mom_pct": 0.22,
+   "core_yoy_pct": 2.27,
+   "release_time_utc": null
+  },
+  {
+   "period": "2017-02",
+   "cpi_mom_pct": 0.16,
+   "cpi_yoy_pct": 2.74,
+   "core_mom_pct": 0.21,
+   "core_yoy_pct": 2.22,
+   "release_time_utc": null
+  },
+  {
+   "period": "2017-03",
+   "cpi_mom_pct": -0.05,
+   "cpi_yoy_pct": 2.38,
+   "core_mom_pct": -0.02,
+   "core_yoy_pct": 2.0,
+   "release_time_utc": null
+  },
+  {
+   "period": "2017-04",
+   "cpi_mom_pct": 0.12,
+   "cpi_yoy_pct": 2.2,
+   "core_mom_pct": 0.11,
+   "core_yoy_pct": 1.88,
+   "release_time_utc": null
+  },
+  {
+   "period": "2017-05",
+   "cpi_mom_pct": -0.08,
+   "cpi_yoy_pct": 1.87,
+   "core_mom_pct": 0.08,
+   "core_yoy_pct": 1.73,
+   "release_time_utc": null
+  },
+  {
+   "period": "2017-06",
+   "cpi_mom_pct": 0.07,
+   "cpi_yoy_pct": 1.63,
+   "core_mom_pct": 0.13,
+   "core_yoy_pct": 1.7,
+   "release_time_utc": null
+  },
+  {
+   "period": "2017-07",
+   "cpi_mom_pct": 0.03,
+   "cpi_yoy_pct": 1.73,
+   "core_mom_pct": 0.09,
+   "core_yoy_pct": 1.69,
+   "release_time_utc": null
+  },
+  {
+   "period": "2017-08",
+   "cpi_mom_pct": 0.38,
+   "cpi_yoy_pct": 1.94,
+   "core_mom_pct": 0.22,
+   "core_yoy_pct": 1.68,
+   "release_time_utc": null
+  },
+  {
+   "period": "2017-09",
+   "cpi_mom_pct": 0.51,
+   "cpi_yoy_pct": 2.23,
+   "core_mom_pct": 0.11,
+   "core_yoy_pct": 1.69,
+   "release_time_utc": null
+  },
+  {
+   "period": "2017-10",
+   "cpi_mom_pct": 0.08,
+   "cpi_yoy_pct": 2.04,
+   "core_mom_pct": 0.28,
+   "core_yoy_pct": 1.77,
+   "release_time_utc": null
+  },
+  {
+   "period": "2017-11",
+   "cpi_mom_pct": 0.27,
+   "cpi_yoy_pct": 2.2,
+   "core_mom_pct": 0.11,
+   "core_yoy_pct": 1.71,
+   "release_time_utc": null
+  },
+  {
+   "period": "2017-12",
+   "cpi_mom_pct": 0.21,
+   "cpi_yoy_pct": 2.11,
+   "core_mom_pct": 0.21,
+   "core_yoy_pct": 1.78,
+   "release_time_utc": null
+  },
+  {
+   "period": "2018-01",
+   "cpi_mom_pct": 0.43,
+   "cpi_yoy_pct": 2.07,
+   "core_mom_pct": 0.34,
+   "core_yoy_pct": 1.82,
+   "release_time_utc": null
+  },
+  {
+   "period": "2018-02",
+   "cpi_mom_pct": 0.27,
+   "cpi_yoy_pct": 2.21,
+   "core_mom_pct": 0.2,
+   "core_yoy_pct": 1.85,
+   "release_time_utc": null
+  },
+  {
+   "period": "2018-03",
+   "cpi_mom_pct": 0.02,
+   "cpi_yoy_pct": 2.36,
+   "core_mom_pct": 0.22,
+   "core_yoy_pct": 2.12,
+   "release_time_utc": null
+  },
+  {
+   "period": "2018-04",
+   "cpi_mom_pct": 0.26,
+   "cpi_yoy_pct": 2.46,
+   "core_mom_pct": 0.14,
+   "core_yoy_pct": 2.14,
+   "release_time_utc": null
+  },
+  {
+   "period": "2018-05",
+   "cpi_mom_pct": 0.23,
+   "cpi_yoy_pct": 2.8,
+   "core_mom_pct": 0.2,
+   "core_yoy_pct": 2.24,
+   "release_time_utc": null
+  },
+  {
+   "period": "2018-06",
+   "cpi_mom_pct": 0.09,
+   "cpi_yoy_pct": 2.87,
+   "core_mom_pct": 0.1,
+   "core_yoy_pct": 2.26,
+   "release_time_utc": null
+  },
+  {
+   "period": "2018-07",
+   "cpi_mom_pct": 0.08,
+   "cpi_yoy_pct": 2.95,
+   "core_mom_pct": 0.12,
+   "core_yoy_pct": 2.35,
+   "release_time_utc": null
+  },
+  {
+   "period": "2018-08",
+   "cpi_mom_pct": 0.18,
+   "cpi_yoy_pct": 2.7,
+   "core_mom_pct": 0.07,
+   "core_yoy_pct": 2.2,
+   "release_time_utc": null
+  },
+  {
+   "period": "2018-09",
+   "cpi_mom_pct": 0.21,
+   "cpi_yoy_pct": 2.28,
+   "core_mom_pct": 0.18,
+   "core_yoy_pct": 2.17,
+   "release_time_utc": null
+  },
+  {
+   "period": "2018-10",
+   "cpi_mom_pct": 0.23,
+   "cpi_yoy_pct": 2.52,
+   "core_mom_pct": 0.21,
+   "core_yoy_pct": 2.14,
+   "release_time_utc": null
+  },
+  {
+   "period": "2018-11",
+   "cpi_mom_pct": -0.07,
+   "cpi_yoy_pct": 2.18,
+   "core_mom_pct": 0.2,
+   "core_yoy_pct": 2.21,
+   "release_time_utc": null
+  },
+  {
+   "period": "2018-12",
+   "cpi_mom_pct": 0.07,
+   "cpi_yoy_pct": 1.91,
+   "core_mom_pct": 0.24,
+   "core_yoy_pct": 2.18,
+   "release_time_utc": null
+  },
+  {
+   "period": "2019-01",
+   "cpi_mom_pct": -0.08,
+   "cpi_yoy_pct": 1.55,
+   "core_mom_pct": 0.27,
+   "core_yoy_pct": 2.15,
+   "release_time_utc": null
+  },
+  {
+   "period": "2019-02",
+   "cpi_mom_pct": 0.3,
+   "cpi_yoy_pct": 1.52,
+   "core_mom_pct": 0.16,
+   "core_yoy_pct": 2.08,
+   "release_time_utc": null
+  },
+  {
+   "period": "2019-03",
+   "cpi_mom_pct": 0.38,
+   "cpi_yoy_pct": 1.86,
+   "core_mom_pct": 0.15,
+   "core_yoy_pct": 2.04,
+   "release_time_utc": null
+  },
+  {
+   "period": "2019-04",
+   "cpi_mom_pct": 0.38,
+   "cpi_yoy_pct": 2.0,
+   "core_mom_pct": 0.16,
+   "core_yoy_pct": 2.06,
+   "release_time_utc": null
+  },
+  {
+   "period": "2019-05",
+   "cpi_mom_pct": 0.02,
+   "cpi_yoy_pct": 1.79,
+   "core_mom_pct": 0.08,
+   "core_yoy_pct": 1.99,
+   "release_time_utc": null
+  },
+  {
+   "period": "2019-06",
+   "cpi_mom_pct": -0.03,
+   "cpi_yoy_pct": 1.65,
+   "core_mom_pct": 0.2,
+   "core_yoy_pct": 2.13,
+   "release_time_utc": null
+  },
+  {
+   "period": "2019-07",
+   "cpi_mom_pct": 0.23,
+   "cpi_yoy_pct": 1.81,
+   "core_mom_pct": 0.21,
+   "core_yoy_pct": 2.21,
+   "release_time_utc": null
+  },
+  {
+   "period": "2019-08",
+   "cpi_mom_pct": 0.09,
+   "cpi_yoy_pct": 1.75,
+   "core_mom_pct": 0.23,
+   "core_yoy_pct": 2.39,
+   "release_time_utc": null
+  },
+  {
+   "period": "2019-09",
+   "cpi_mom_pct": 0.15,
+   "cpi_yoy_pct": 1.71,
+   "core_mom_pct": 0.19,
+   "core_yoy_pct": 2.36,
+   "release_time_utc": null
+  },
+  {
+   "period": "2019-10",
+   "cpi_mom_pct": 0.28,
+   "cpi_yoy_pct": 1.76,
+   "core_mom_pct": 0.22,
+   "core_yoy_pct": 2.31,
+   "release_time_utc": null
+  },
+  {
+   "period": "2019-11",
+   "cpi_mom_pct": 0.28,
+   "cpi_yoy_pct": 2.05,
+   "core_mom_pct": 0.22,
+   "core_yoy_pct": 2.32,
+   "release_time_utc": null
+  },
+  {
+   "period": "2019-12",
+   "cpi_mom_pct": 0.29,
+   "cpi_yoy_pct": 2.29,
+   "core_mom_pct": 0.18,
+   "core_yoy_pct": 2.26,
+   "release_time_utc": null
+  },
+  {
+   "period": "2020-01",
+   "cpi_mom_pct": 0.19,
+   "cpi_yoy_pct": 2.49,
+   "core_mom_pct": 0.26,
+   "core_yoy_pct": 2.26,
+   "release_time_utc": null
+  },
+  {
+   "period": "2020-02",
+   "cpi_mom_pct": 0.05,
+   "cpi_yoy_pct": 2.33,
+   "core_mom_pct": 0.25,
+   "core_yoy_pct": 2.36,
+   "release_time_utc": null
+  },
+  {
+   "period": "2020-03",
+   "cpi_mom_pct": -0.45,
+   "cpi_yoy_pct": 1.54,
+   "core_mom_pct": -0.12,
+   "core_yoy_pct": 2.09,
+   "release_time_utc": null
+  },
+  {
+   "period": "2020-04",
+   "cpi_mom_pct": -0.79,
+   "cpi_yoy_pct": 0.33,
+   "core_mom_pct": -0.49,
+   "core_yoy_pct": 1.43,
+   "release_time_utc": null
+  },
+  {
+   "period": "2020-05",
+   "cpi_mom_pct": -0.09,
+   "cpi_yoy_pct": 0.12,
+   "core_mom_pct": -0.13,
+   "core_yoy_pct": 1.22,
+   "release_time_utc": null
+  },
+  {
+   "period": "2020-06",
+   "cpi_mom_pct": 0.48,
+   "cpi_yoy_pct": 0.65,
+   "core_mom_pct": 0.16,
+   "core_yoy_pct": 1.19,
+   "release_time_utc": null
+  },
+  {
+   "period": "2020-07",
+   "cpi_mom_pct": 0.51,
+   "cpi_yoy_pct": 0.99,
+   "core_mom_pct": 0.58,
+   "core_yoy_pct": 1.57,
+   "release_time_utc": null
+  },
+  {
+   "period": "2020-08",
+   "cpi_mom_pct": 0.37,
+   "cpi_yoy_pct": 1.31,
+   "core_mom_pct": 0.39,
+   "core_yoy_pct": 1.74,
+   "release_time_utc": null
+  },
+  {
+   "period": "2020-09",
+   "cpi_mom_pct": 0.26,
+   "cpi_yoy_pct": 1.37,
+   "core_mom_pct": 0.19,
+   "core_yoy_pct": 1.71,
+   "release_time_utc": null
+  },
+  {
+   "period": "2020-10",
+   "cpi_mom_pct": 0.12,
+   "cpi_yoy_pct": 1.18,
+   "core_mom_pct": 0.14,
+   "core_yoy_pct": 1.61,
+   "release_time_utc": null
+  },
+  {
+   "period": "2020-11",
+   "cpi_mom_pct": 0.23,
+   "cpi_yoy_pct": 1.17,
+   "core_mom_pct": 0.25,
+   "core_yoy_pct": 1.65,
+   "release_time_utc": null
+  },
+  {
+   "period": "2020-12",
+   "cpi_mom_pct": 0.43,
+   "cpi_yoy_pct": 1.36,
+   "core_mom_pct": 0.13,
+   "core_yoy_pct": 1.62,
+   "release_time_utc": null
+  },
+  {
+   "period": "2021-01",
+   "cpi_mom_pct": 0.24,
+   "cpi_yoy_pct": 1.4,
+   "core_mom_pct": 0.02,
+   "core_yoy_pct": 1.41,
+   "release_time_utc": null
+  },
+  {
+   "period": "2021-02",
+   "cpi_mom_pct": 0.34,
+   "cpi_yoy_pct": 1.68,
+   "core_mom_pct": 0.15,
+   "core_yoy_pct": 1.28,
+   "release_time_utc": null
+  },
+  {
+   "period": "2021-03",
+   "cpi_mom_pct": 0.52,
+   "cpi_yoy_pct": 2.62,
+   "core_mom_pct": 0.25,
+   "core_yoy_pct": 1.65,
+   "release_time_utc": null
+  },
+  {
+   "period": "2021-04",
+   "cpi_mom_pct": 0.62,
+   "cpi_yoy_pct": 4.16,
+   "core_mom_pct": 0.81,
+   "core_yoy_pct": 2.96,
+   "release_time_utc": null
+  },
+  {
+   "period": "2021-05",
+   "cpi_mom_pct": 0.66,
+   "cpi_yoy_pct": 4.99,
+   "core_mom_pct": 0.66,
+   "core_yoy_pct": 3.8,
+   "release_time_utc": null
+  },
+  {
+   "period": "2021-06",
+   "cpi_mom_pct": 0.85,
+   "cpi_yoy_pct": 5.39,
+   "core_mom_pct": 0.79,
+   "core_yoy_pct": 4.47,
+   "release_time_utc": null
+  },
+  {
+   "period": "2021-07",
+   "cpi_mom_pct": 0.46,
+   "cpi_yoy_pct": 5.37,
+   "core_mom_pct": 0.36,
+   "core_yoy_pct": 4.27,
+   "release_time_utc": null
+  },
+  {
+   "period": "2021-08",
+   "cpi_mom_pct": 0.28,
+   "cpi_yoy_pct": 5.25,
+   "core_mom_pct": 0.13,
+   "core_yoy_pct": 4.0,
+   "release_time_utc": null
+  },
+  {
+   "period": "2021-09",
+   "cpi_mom_pct": 0.45,
+   "cpi_yoy_pct": 5.39,
+   "core_mom_pct": 0.25,
+   "core_yoy_pct": 4.03,
+   "release_time_utc": null
+  },
+  {
+   "period": "2021-10",
+   "cpi_mom_pct": 0.96,
+   "cpi_yoy_pct": 6.22,
+   "core_mom_pct": 0.7,
+   "core_yoy_pct": 4.56,
+   "release_time_utc": null
+  },
+  {
+   "period": "2021-11",
+   "cpi_mom_pct": 0.86,
+   "cpi_yoy_pct": 6.81,
+   "core_mom_pct": 0.62,
+   "core_yoy_pct": 4.93,
+   "release_time_utc": null
+  },
+  {
+   "period": "2021-12",
+   "cpi_mom_pct": 0.69,
+   "cpi_yoy_pct": 7.04,
+   "core_mom_pct": 0.63,
+   "core_yoy_pct": 5.45,
+   "release_time_utc": null
+  },
+  {
+   "period": "2022-01",
+   "cpi_mom_pct": 0.6,
+   "cpi_yoy_pct": 7.48,
+   "core_mom_pct": 0.55,
+   "core_yoy_pct": 6.02,
+   "release_time_utc": null
+  },
+  {
+   "period": "2022-02",
+   "cpi_mom_pct": 0.69,
+   "cpi_yoy_pct": 7.87,
+   "core_mom_pct": 0.53,
+   "core_yoy_pct": 6.41,
+   "release_time_utc": null
+  },
+  {
+   "period": "2022-03",
+   "cpi_mom_pct": 1.12,
+   "cpi_yoy_pct": 8.54,
+   "core_mom_pct": 0.27,
+   "core_yoy_pct": 6.47,
+   "release_time_utc": null
+  },
+  {
+   "period": "2022-04",
+   "cpi_mom_pct": 0.31,
+   "cpi_yoy_pct": 8.26,
+   "core_mom_pct": 0.5,
+   "core_yoy_pct": 6.16,
+   "release_time_utc": null
+  },
+  {
+   "period": "2022-05",
+   "cpi_mom_pct": 0.95,
+   "cpi_yoy_pct": 8.58,
+   "core_mom_pct": 0.53,
+   "core_yoy_pct": 6.02,
+   "release_time_utc": null
+  },
+  {
+   "period": "2022-06",
+   "cpi_mom_pct": 1.26,
+   "cpi_yoy_pct": 9.06,
+   "core_mom_pct": 0.68,
+   "core_yoy_pct": 5.92,
+   "release_time_utc": null
+  },
+  {
+   "period": "2022-07",
+   "cpi_mom_pct": -0.01,
+   "cpi_yoy_pct": 8.52,
+   "core_mom_pct": 0.35,
+   "core_yoy_pct": 5.91,
+   "release_time_utc": null
+  },
+  {
+   "period": "2022-08",
+   "cpi_mom_pct": 0.06,
+   "cpi_yoy_pct": 8.26,
+   "core_mom_pct": 0.49,
+   "core_yoy_pct": 6.32,
+   "release_time_utc": null
+  },
+  {
+   "period": "2022-09",
+   "cpi_mom_pct": 0.42,
+   "cpi_yoy_pct": 8.2,
+   "core_mom_pct": 0.57,
+   "core_yoy_pct": 6.63,
+   "release_time_utc": null
+  },
+  {
+   "period": "2022-10",
+   "cpi_mom_pct": 0.56,
+   "cpi_yoy_pct": 7.75,
+   "core_mom_pct": 0.39,
+   "core_yoy_pct": 6.28,
+   "release_time_utc": null
+  },
+  {
+   "period": "2022-11",
+   "cpi_mom_pct": 0.26,
+   "cpi_yoy_pct": 7.11,
+   "core_mom_pct": 0.31,
+   "core_yoy_pct": 5.96,
+   "release_time_utc": null
+  },
+  {
+   "period": "2022-12",
+   "cpi_mom_pct": 0.02,
+   "cpi_yoy_pct": 6.45,
+   "core_mom_pct": 0.36,
+   "core_yoy_pct": 5.71,
+   "release_time_utc": null
+  },
+  {
+   "period": "2023-01",
+   "cpi_mom_pct": 0.53,
+   "cpi_yoy_pct": 6.41,
+   "core_mom_pct": 0.41,
+   "core_yoy_pct": 5.58,
+   "release_time_utc": null
+  },
+  {
+   "period": "2023-02",
+   "cpi_mom_pct": 0.34,
+   "cpi_yoy_pct": 6.04,
+   "core_mom_pct": 0.49,
+   "core_yoy_pct": 5.54,
+   "release_time_utc": null
+  },
+  {
+   "period": "2023-03",
+   "cpi_mom_pct": 0.12,
+   "cpi_yoy_pct": 4.98,
+   "core_mom_pct": 0.34,
+   "core_yoy_pct": 5.59,
+   "release_time_utc": null
+  },
+  {
+   "period": "2023-04",
+   "cpi_mom_pct": 0.34,
+   "cpi_yoy_pct": 4.93,
+   "core_mom_pct": 0.45,
+   "core_yoy_pct": 5.52,
+   "release_time_utc": null
+  },
+  {
+   "period": "2023-05",
+   "cpi_mom_pct": 0.16,
+   "cpi_yoy_pct": 4.05,
+   "core_mom_pct": 0.36,
+   "core_yoy_pct": 5.33,
+   "release_time_utc": null
+  },
+  {
+   "period": "2023-06",
+   "cpi_mom_pct": 0.22,
+   "cpi_yoy_pct": 2.97,
+   "core_mom_pct": 0.22,
+   "core_yoy_pct": 4.83,
+   "release_time_utc": null
+  },
+  {
+   "period": "2023-07",
+   "cpi_mom_pct": 0.2,
+   "cpi_yoy_pct": 3.18,
+   "core_mom_pct": 0.21,
+   "core_yoy_pct": 4.65,
+   "release_time_utc": null
+  },
+  {
+   "period": "2023-08",
+   "cpi_mom_pct": 0.48,
+   "cpi_yoy_pct": 3.67,
+   "core_mom_pct": 0.2,
+   "core_yoy_pct": 4.35,
+   "release_time_utc": null
+  },
+  {
+   "period": "2023-09",
+   "cpi_mom_pct": 0.39,
+   "cpi_yoy_pct": 3.7,
+   "core_mom_pct": 0.31,
+   "core_yoy_pct": 4.15,
+   "release_time_utc": null
+  },
+  {
+   "period": "2023-10",
+   "cpi_mom_pct": 0.14,
+   "cpi_yoy_pct": 3.24,
+   "core_mom_pct": 0.3,
+   "core_yoy_pct": 4.03,
+   "release_time_utc": null
+  },
+  {
+   "period": "2023-11",
+   "cpi_mom_pct": 0.15,
+   "cpi_yoy_pct": 3.14,
+   "core_mom_pct": 0.3,
+   "core_yoy_pct": 4.01,
+   "release_time_utc": null
+  },
+  {
+   "period": "2023-12",
+   "cpi_mom_pct": 0.19,
+   "cpi_yoy_pct": 3.35,
+   "core_mom_pct": 0.26,
+   "core_yoy_pct": 3.93,
+   "release_time_utc": null
+  },
+  {
+   "period": "2024-01",
+   "cpi_mom_pct": 0.31,
+   "cpi_yoy_pct": 3.09,
+   "core_mom_pct": 0.36,
+   "core_yoy_pct": 3.86,
+   "release_time_utc": null
+  },
+  {
+   "period": "2024-02",
+   "cpi_mom_pct": 0.41,
+   "cpi_yoy_pct": 3.15,
+   "core_mom_pct": 0.4,
+   "core_yoy_pct": 3.75,
+   "release_time_utc": null
+  },
+  {
+   "period": "2024-03",
+   "cpi_mom_pct": 0.44,
+   "cpi_yoy_pct": 3.48,
+   "core_mom_pct": 0.39,
+   "core_yoy_pct": 3.8,
+   "release_time_utc": null
+  },
+  {
+   "period": "2024-04",
+   "cpi_mom_pct": 0.22,
+   "cpi_yoy_pct": 3.36,
+   "core_mom_pct": 0.27,
+   "core_yoy_pct": 3.61,
+   "release_time_utc": null
+  },
+  {
+   "period": "2024-05",
+   "cpi_mom_pct": 0.05,
+   "cpi_yoy_pct": 3.27,
+   "core_mom_pct": 0.14,
+   "core_yoy_pct": 3.42,
+   "release_time_utc": null
+  },
+  {
+   "period": "2024-06",
+   "cpi_mom_pct": -0.04,
+   "cpi_yoy_pct": 2.97,
+   "core_mom_pct": 0.09,
+   "core_yoy_pct": 3.27,
+   "release_time_utc": null
+  },
+  {
+   "period": "2024-07",
+   "cpi_mom_pct": 0.17,
+   "cpi_yoy_pct": 2.89,
+   "core_mom_pct": 0.17,
+   "core_yoy_pct": 3.17,
+   "release_time_utc": null
+  },
+  {
+   "period": "2024-08",
+   "cpi_mom_pct": 0.16,
+   "cpi_yoy_pct": 2.53,
+   "core_mom_pct": 0.25,
+   "core_yoy_pct": 3.2,
+   "release_time_utc": null
+  },
+  {
+   "period": "2024-09",
+   "cpi_mom_pct": 0.21,
+   "cpi_yoy_pct": 2.44,
+   "core_mom_pct": 0.31,
+   "core_yoy_pct": 3.31,
+   "release_time_utc": null
+  },
+  {
+   "period": "2024-10",
+   "cpi_mom_pct": 0.29,
+   "cpi_yoy_pct": 2.6,
+   "core_mom_pct": 0.31,
+   "core_yoy_pct": 3.33,
+   "release_time_utc": null
+  },
+  {
+   "period": "2024-11",
+   "cpi_mom_pct": 0.28,
+   "cpi_yoy_pct": 2.75,
+   "core_mom_pct": 0.29,
+   "core_yoy_pct": 3.32,
+   "release_time_utc": null
+  },
+  {
+   "period": "2024-12",
+   "cpi_mom_pct": 0.34,
+   "cpi_yoy_pct": 2.89,
+   "core_mom_pct": 0.19,
+   "core_yoy_pct": 3.24,
+   "release_time_utc": null
+  },
+  {
+   "period": "2025-01",
+   "cpi_mom_pct": 0.43,
+   "cpi_yoy_pct": 3.0,
+   "core_mom_pct": 0.43,
+   "core_yoy_pct": 3.26,
+   "release_time_utc": null
+  },
+  {
+   "period": "2025-02",
+   "cpi_mom_pct": 0.23,
+   "cpi_yoy_pct": 2.82,
+   "core_mom_pct": 0.25,
+   "core_yoy_pct": 3.12,
+   "release_time_utc": null
+  },
+  {
+   "period": "2025-03",
+   "cpi_mom_pct": 0.03,
+   "cpi_yoy_pct": 2.39,
+   "core_mom_pct": 0.07,
+   "core_yoy_pct": 2.79,
+   "release_time_utc": null
+  },
+  {
+   "period": "2025-04",
+   "cpi_mom_pct": 0.16,
+   "cpi_yoy_pct": 2.31,
+   "core_mom_pct": 0.24,
+   "core_yoy_pct": 2.78,
+   "release_time_utc": null
+  },
+  {
+   "period": "2025-05",
+   "cpi_mom_pct": 0.1,
+   "cpi_yoy_pct": 2.35,
+   "core_mom_pct": 0.13,
+   "core_yoy_pct": 2.79,
+   "release_time_utc": null
+  },
+  {
+   "period": "2025-06",
+   "cpi_mom_pct": 0.25,
+   "cpi_yoy_pct": 2.67,
+   "core_mom_pct": 0.23,
+   "core_yoy_pct": 2.93,
+   "release_time_utc": null
+  },
+  {
+   "period": "2025-07",
+   "cpi_mom_pct": 0.23,
+   "cpi_yoy_pct": 2.7,
+   "core_mom_pct": 0.31,
+   "core_yoy_pct": 3.06,
+   "release_time_utc": null
+  },
+  {
+   "period": "2025-08",
+   "cpi_mom_pct": 0.35,
+   "cpi_yoy_pct": 2.92,
+   "core_mom_pct": 0.31,
+   "core_yoy_pct": 3.11,
+   "release_time_utc": null
+  },
+  {
+   "period": "2025-09",
+   "cpi_mom_pct": 0.3,
+   "cpi_yoy_pct": 3.01,
+   "core_mom_pct": 0.22,
+   "core_yoy_pct": 3.02,
+   "release_time_utc": null
+  },
+  {
+   "period": "2025-11",
+   "cpi_mom_pct": null,
+   "cpi_yoy_pct": 2.74,
+   "core_mom_pct": null,
+   "core_yoy_pct": 2.63,
+   "release_time_utc": null
+  },
+  {
+   "period": "2025-12",
+   "cpi_mom_pct": 0.3,
+   "cpi_yoy_pct": 2.68,
+   "core_mom_pct": 0.23,
+   "core_yoy_pct": 2.64,
+   "release_time_utc": null
+  },
+  {
+   "period": "2026-01",
+   "cpi_mom_pct": 0.17,
+   "cpi_yoy_pct": 2.39,
+   "core_mom_pct": 0.3,
+   "core_yoy_pct": 2.5,
+   "release_time_utc": null
+  },
+  {
+   "period": "2026-02",
+   "cpi_mom_pct": 0.27,
+   "cpi_yoy_pct": 2.41,
+   "core_mom_pct": 0.22,
+   "core_yoy_pct": 2.46,
+   "release_time_utc": null
+  },
+  {
+   "period": "2026-03",
+   "cpi_mom_pct": 0.87,
+   "cpi_yoy_pct": 3.26,
+   "core_mom_pct": 0.2,
+   "core_yoy_pct": 2.6,
+   "release_time_utc": null
+  },
+  {
+   "period": "2026-04",
+   "cpi_mom_pct": 0.64,
+   "cpi_yoy_pct": 3.81,
+   "core_mom_pct": 0.38,
+   "core_yoy_pct": 2.75,
+   "release_time_utc": null
+  },
+  {
+   "period": "2026-05",
+   "cpi_mom_pct": 0.47,
+   "cpi_yoy_pct": 4.25,
+   "core_mom_pct": 0.21,
+   "core_yoy_pct": 2.85,
+   "release_time_utc": null
+  },
+  {
+   "period": "2026-06",
+   "cpi_mom_pct": -0.42,
+   "cpi_yoy_pct": 3.53,
+   "core_mom_pct": -0.02,
+   "core_yoy_pct": 2.59,
+   "release_time_utc": null
+  },
+  {
+   "period": "2026-07",
+   "cpi_mom_pct": 0.07,
+   "cpi_yoy_pct": 3.36,
+   "core_mom_pct": 0.22,
+   "core_yoy_pct": 2.48,
+   "release_time_utc": null
+  },
+  {
+   "period": "2026-08",
+   "cpi_mom_pct": 0.4,
+   "cpi_yoy_pct": 3.4,
+   "core_mom_pct": 0.29,
+   "core_yoy_pct": 2.45,
+   "release_time_utc": null
+  }
+ ]
+}
