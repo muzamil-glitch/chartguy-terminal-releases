@@ -1,0 +1,37 @@
+name: Chart Guy Data
+
+# Pulls official US data (BLS, CFTC, Federal Reserve) into data/*.json.
+# 12:35 / 13:35 UTC = just after 8:30 ET releases (summer / winter time);
+# 20:35 UTC on Fridays catches the CFTC COT report.
+on:
+  schedule:
+    - cron: "35 12,13 * * 1-5"
+    - cron: "35 20 * * 5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: fetch official data
+        run: python tools/fetch_official.py || echo "some sources failed, see data/_status.json"
+      - name: commit
+        run: |
+          git config user.name "chartguy-data-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet && echo "no change" && exit 0
+          git commit -m "data: update $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
