@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T13:52:09Z",
+ "updated": "2026-10-09T20:47:54Z",
  "sources": {
   "bls_schedule": {
    "ok": false,
@@ -21,19 +21,19 @@
   "cftc_cot": {
    "ok": true,
    "markets": {
-    "AUD": 1083,
-    "WTI_CRUDE": 1083,
-    "SILVER": 1083,
-    "GOLD": 1083,
-    "CAD": 1083,
-    "CHF": 1083,
-    "MXN": 1083,
-    "GBP": 1083,
-    "JPY": 1083,
-    "USD_INDEX": 1083,
-    "EUR": 1083,
-    "NZD": 1080,
-    "BITCOIN": 443
+    "AUD": 1084,
+    "WTI_CRUDE": 1084,
+    "SILVER": 1084,
+    "GOLD": 1084,
+    "CAD": 1084,
+    "CHF": 1084,
+    "MXN": 1084,
+    "GBP": 1084,
+    "JPY": 1084,
+    "USD_INDEX": 1084,
+    "EUR": 1084,
+    "NZD": 1081,
+    "BITCOIN": 444
    }
   }
  }

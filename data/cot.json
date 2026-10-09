@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T13:52:09Z",
+ "updated": "2026-10-09T20:47:54Z",
  "licence": "US Government work, public domain. Compiled by Chart Guy Data.",
  "note": "Legacy futures-only report. Net = long - short.",
  "markets": {
@@ -8667,6 +8667,14 @@
     "noncomm_net": -63239,
     "comm_net": 46348,
     "open_interest": 309800
+   },
+   {
+    "date": "2026-10-06",
+    "noncomm_long": 100138,
+    "noncomm_short": 198726,
+    "noncomm_net": -98588,
+    "comm_net": 85092,
+    "open_interest": 328682
    }
   ],
   "WTI_CRUDE": [
@@ -17333,6 +17341,14 @@
     "noncomm_net": 109463,
     "comm_net": -142618,
     "open_interest": 1878576
+   },
+   {
+    "date": "2026-10-06",
+    "noncomm_long": 336706,
+    "noncomm_short": 237646,
+    "noncomm_net": 99060,
+    "comm_net": -126458,
+    "open_interest": 1889422
    }
   ],
   "SILVER": [
@@ -25999,6 +26015,14 @@
     "noncomm_net": 22083,
     "comm_net": -40010,
     "open_interest": 107047
+   },
+   {
+    "date": "2026-10-06",
+    "noncomm_long": 33648,
+    "noncomm_short": 10495,
+    "noncomm_net": 23153,
+    "comm_net": -41592,
+    "open_interest": 105130
    }
   ],
   "GOLD": [
@@ -34665,6 +34689,14 @@
     "noncomm_net": 218632,
     "comm_net": -250967,
     "open_interest": 406456
+   },
+   {
+    "date": "2026-10-06",
+    "noncomm_long": 245403,
+    "noncomm_short": 35068,
+    "noncomm_net": 210335,
+    "comm_net": -244527,
+    "open_interest": 396109
    }
   ],
   "CAD": [
@@ -43331,6 +43363,14 @@
     "noncomm_net": -78671,
     "comm_net": 89564,
     "open_interest": 347274
+   },
+   {
+    "date": "2026-10-06",
+    "noncomm_long": 91109,
+    "noncomm_short": 181272,
+    "noncomm_net": -90163,
+    "comm_net": 103502,
+    "open_interest": 371048
    }
   ],
   "CHF": [
@@ -51997,6 +52037,14 @@
     "noncomm_net": -24617,
     "comm_net": 40140,
     "open_interest": 133872
+   },
+   {
+    "date": "2026-10-06",
+    "noncomm_long": 27818,
+    "noncomm_short": 51558,
+    "noncomm_net": -23740,
+    "comm_net": 37286,
+    "open_interest": 137185
    }
   ],
   "MXN": [
@@ -60663,6 +60711,14 @@
     "noncomm_net": 52402,
     "comm_net": -54597,
     "open_interest": 274821
+   },
+   {
+    "date": "2026-10-06",
+    "noncomm_long": 98697,
+    "noncomm_short": 87996,
+    "noncomm_net": 10701,
+    "comm_net": -12701,
+    "open_interest": 290507
    }
   ],
   "GBP": [
@@ -69329,6 +69385,14 @@
     "noncomm_net": -91075,
     "comm_net": 100882,
     "open_interest": 251740
+   },
+   {
+    "date": "2026-10-06",
+    "noncomm_long": 45259,
+    "noncomm_short": 142870,
+    "noncomm_net": -97611,
+    "comm_net": 111867,
+    "open_interest": 265890
    }
   ],
   "JPY": [
@@ -77995,6 +78059,14 @@
     "noncomm_net": 55440,
     "comm_net": -55985,
     "open_interest": 360720
+   },
+   {
+    "date": "2026-10-06",
+    "noncomm_long": 190368,
+    "noncomm_short": 128043,
+    "noncomm_net": 62325,
+    "comm_net": -61749,
+    "open_interest": 368138
    }
   ],
   "USD_INDEX": [
@@ -86661,6 +86733,14 @@
     "noncomm_net": 11881,
     "comm_net": -13874,
     "open_interest": 48342
+   },
+   {
+    "date": "2026-10-06",
+    "noncomm_long": 30526,
+    "noncomm_short": 18515,
+    "noncomm_net": 12011,
+    "comm_net": -14271,
+    "open_interest": 51095
    }
   ],
   "EUR": [
@@ -95327,6 +95407,14 @@
     "noncomm_net": -63256,
     "comm_net": 40577,
     "open_interest": 853959
+   },
+   {
+    "date": "2026-10-06",
+    "noncomm_long": 243020,
+    "noncomm_short": 342352,
+    "noncomm_net": -99332,
+    "comm_net": 72024,
+    "open_interest": 870291
    }
   ],
   "NZD": [
@@ -103969,6 +104057,14 @@
     "noncomm_net": -17315,
     "comm_net": 18994,
     "open_interest": 114777
+   },
+   {
+    "date": "2026-10-06",
+    "noncomm_long": 27821,
+    "noncomm_short": 57167,
+    "noncomm_net": -29346,
+    "comm_net": 31380,
+    "open_interest": 129883
    }
   ],
   "BITCOIN": [
@@ -107515,6 +107611,14 @@
     "noncomm_net": 2465,
     "comm_net": -2770,
     "open_interest": 19596
+   },
+   {
+    "date": "2026-10-06",
+    "noncomm_long": 18313,
+    "noncomm_short": 15773,
+    "noncomm_net": 2540,
+    "comm_net": -3006,
+    "open_interest": 21432
    }
   ]
  }
