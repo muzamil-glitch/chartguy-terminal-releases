@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T19:29:43Z",
+ "updated": "2026-10-14T17:33:51Z",
  "sources": {
   "bls_schedule": {
    "ok": false,
@@ -15,7 +15,7 @@
    "ok": true,
    "rows": {
     "nfp": 237,
-    "cpi": 235
+    "cpi": 236
    }
   },
   "cftc_cot": {
