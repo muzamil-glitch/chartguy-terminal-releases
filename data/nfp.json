@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T20:13:58Z",
+ "updated": "2026-11-06T19:39:08Z",
  "licence": "US Government work, public domain. Compiled by Chart Guy Data.",
  "note": "Latest revised values. first_print is recorded from the first time this pipeline saw a release.",
  "rows": [
@@ -2120,8 +2120,8 @@
   },
   {
    "period": "2026-08",
-   "nfp_change_k": 133.0,
-   "nfp_level_k": 159015.0,
+   "nfp_change_k": 186.0,
+   "nfp_level_k": 159068.0,
    "unemployment_rate": 4.1,
    "ahe_mom_pct": 0.32,
    "ahe_yoy_pct": 3.11,
@@ -2129,11 +2129,26 @@
   },
   {
    "period": "2026-09",
-   "nfp_change_k": 29.0,
-   "nfp_level_k": 159044.0,
+   "nfp_change_k": 60.0,
+   "nfp_level_k": 159128.0,
    "unemployment_rate": 4.2,
-   "ahe_mom_pct": 0.13,
-   "ahe_yoy_pct": 3.02,
+   "ahe_mom_pct": 0.26,
+   "ahe_yoy_pct": 3.16,
+   "release_time_utc": null
+  },
+  {
+   "period": "2026-10",
+   "nfp_change_k": 165.0,
+   "nfp_level_k": 159293.0,
+   "unemployment_rate": 4.1,
+   "ahe_mom_pct": 0.37,
+   "ahe_yoy_pct": 3.12,
+   "first_print": {
+    "captured": "2026-11-06T19:39:08Z",
+    "nfp_change_k": 165.0,
+    "unemployment_rate": 4.1,
+    "ahe_mom_pct": 0.37
+   },
    "release_time_utc": null
   }
  ]
