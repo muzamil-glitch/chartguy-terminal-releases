@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T22:39:25Z",
+ "updated": "2026-11-10T19:58:00Z",
  "licence": "US Government work, public domain. Compiled by Chart Guy Data.",
  "note": "Latest revised values. first_print is recorded from the first time this pipeline saw a release.",
  "rows": [
@@ -1895,6 +1895,21 @@
     "cpi_yoy_pct": 3.74,
     "core_mom_pct": 0.33,
     "core_yoy_pct": 2.56
+   },
+   "release_time_utc": null
+  },
+  {
+   "period": "2026-10",
+   "cpi_mom_pct": 0.35,
+   "cpi_yoy_pct": null,
+   "core_mom_pct": 0.3,
+   "core_yoy_pct": null,
+   "first_print": {
+    "captured": "2026-11-10T19:58:00Z",
+    "cpi_mom_pct": 0.35,
+    "cpi_yoy_pct": null,
+    "core_mom_pct": 0.3,
+    "core_yoy_pct": null
    },
    "release_time_utc": null
   }
