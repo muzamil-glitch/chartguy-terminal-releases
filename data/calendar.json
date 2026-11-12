@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T19:50:02Z",
+ "updated": "2026-11-12T20:22:31Z",
  "licence": "US Government work, public domain. Compiled by Chart Guy Data.",
  "events": [
   {
@@ -509,7 +509,7 @@
    "currency": "USD",
    "impact": "high",
    "source": "Federal Reserve",
-   "projections": true,
+   "projections": false,
    "unscheduled": false
   },
   {
@@ -529,7 +529,7 @@
    "currency": "USD",
    "impact": "high",
    "source": "Federal Reserve",
-   "projections": true,
+   "projections": false,
    "unscheduled": false
   },
   {
@@ -549,7 +549,7 @@
    "currency": "USD",
    "impact": "high",
    "source": "Federal Reserve",
-   "projections": true,
+   "projections": false,
    "unscheduled": false
   },
   {
@@ -565,11 +565,11 @@
   {
    "title": "FOMC Rate Decision",
    "reference": null,
-   "time_utc": "2027-12-08T19:00:00Z",
+   "time_utc": "2027-11-17T19:00:00Z",
    "currency": "USD",
    "impact": "high",
    "source": "Federal Reserve",
-   "projections": true,
+   "projections": false,
    "unscheduled": false
   }
  ]
