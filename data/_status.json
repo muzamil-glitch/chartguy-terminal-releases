@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T20:22:31Z",
+ "updated": "2026-11-13T19:58:38Z",
  "sources": {
   "bls_schedule": {
    "ok": false,
@@ -12,9 +12,11 @@
    "count": 57
   },
   "bls_data": {
-   "ok": false,
-   "error": "HTTPError: HTTP Error 503: Service Unavailable",
-   "trace": "onse = meth(req, response)\n               ^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/urllib/request.py\", line 630, in http_response\n    response = self.parent.error(\n               ^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/urllib/request.py\", line 559, in error\n    return self._call_chain(*args)\n           ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/urllib/request.py\", line 492, in _call_chain\n    result = func(*args)\n             ^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/urllib/request.py\", line 639, in http_error_default\n    raise HTTPError(req.full_url, code, msg, hdrs, fp)\nurllib.error.HTTPError: HTTP Error 503: Service Unavailable\n"
+   "ok": true,
+   "rows": {
+    "nfp": 238,
+    "cpi": 237
+   }
   },
   "cftc_cot": {
    "ok": true,
